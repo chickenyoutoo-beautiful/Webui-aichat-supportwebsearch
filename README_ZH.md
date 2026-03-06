@@ -304,18 +304,5 @@ const SEARCH_PROXY = 'https://your-proxy-server.com';
 
 **✨ 提示**：本项目持续开发中，欢迎提出建议和贡献代码！
 
-**🚀 立即开始**：访问 [在线演示](https://your-demo-url.com) 或部署你自己的实例！
+**🚀 立即开始**：访问 [在线演示](https://naujtrats.xyz/oneapichat/index.html) 或部署你自己的实例！
 ```
-
-## 保存为 README.md
-
-```bash
-# 创建 README.md 文件
-cat > README.md << 'EOF'
-[上面 README.md 的内容]
-EOF
-
-# 添加到 Git
-git add README.md
-git commit -m "Add comprehensive README.md"
-git push origin main
