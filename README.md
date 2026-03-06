@@ -304,19 +304,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **✨ Tip**: This project is under continuous development, suggestions and contributions are welcome!
 
-**🚀 Get Started Now**: Visit [Live Demo](https://your-demo-url.com) or deploy your own instance!
-```
-
-## Save as README_EN.md
-
-```bash
-# Create English README
-cat > README_EN.md << 'EOF'
-[Above English README content]
-EOF
-
-# Add to Git
-git add README_EN.md
-git commit -m "Add English README"
-git push origin main
+**🚀 Get Started Now**: Visit [Live Demo](https://naujtrats.xyz/oneapichat/index.html) or deploy your own instance!
 ```
