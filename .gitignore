@@ -1,0 +1,28 @@
+# Large files
+tailwindcss
+
+# Build outputs
+dist/
+build/
+bin/
+obj/
+*.exe
+*.dll
+*.so
+*.dylib
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.tgz
+
+# Dependencies
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.env.local
+.env.production
