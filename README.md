@@ -1,3 +1,9 @@
+<!-- 这个文件会被 GitHub 优先显示 -->
+请查看以下语言版本：
+- [English](../README.md)
+- [中文](../README.zh-CN.md)
+
+
 # WebUI AI Chat with Web Search
 
 A feature-rich AI chat web interface with web search, file upload, context compression, and deep thinking display.
