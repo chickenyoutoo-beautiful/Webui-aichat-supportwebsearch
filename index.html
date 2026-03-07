@@ -15,19 +15,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="flex h-screen overflow-hidden text-gray-800 dark:text-gray-200">
-    <!-- Add language switcher to your index.html -->
-    <div class="language-switcher">
-      <a href="#en" onclick="switchLanguage('en')">English</a> | 
-      <a href="#zh" onclick="switchLanguage('zh')">中文</a>
-    </div>
     
-    <script>
-    function switchLanguage(lang) {
-      localStorage.setItem('preferredLanguage', lang);
-      // Load corresponding README or show language-specific content
-    }
-    </script>
-
     <!-- 侧边栏遮罩（用于点击关闭） -->
     <div id="sidebarMask" class="sidebar-mask" onclick="closeAllSidebars()"></div>
     <!-- 左侧历史侧栏 (宽度258px) -->
@@ -332,3 +320,4 @@
 </body>
 
 </html>
+
