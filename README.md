@@ -1,5 +1,4 @@
-<!-- 这个文件会被 GitHub 优先显示 -->
-请查看以下语言版本：
+LANGUAGE SELECT:
 - [English](./README.md)
 - [中文](./README.zh-CN.md)
 
