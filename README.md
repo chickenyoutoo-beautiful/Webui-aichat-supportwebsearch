@@ -1,7 +1,7 @@
 <!-- 这个文件会被 GitHub 优先显示 -->
 请查看以下语言版本：
-- [English](../README.md)
-- [中文](../README.zh-CN.md)
+- [English](./README.md)
+- [中文](./README.zh-CN.md)
 
 
 # WebUI AI Chat with Web Search
