@@ -1,328 +1,308 @@
-# NAUJTRATS AI 聊天助手 - 代码说明与使用文档
+# NAUJTRATS AI Chat Assistant - Code Documentation & User Guide
 
-## 一、项目概述
+## 1. Project Overview
+NAUJTRATS AI Chat Assistant is a web-based intelligent conversation application supporting advanced features like file uploads, web search, context compression, and more. The application adopts a modular design with excellent extensibility and user experience.
 
-NAUJTRATS AI 聊天助手是一个基于 Web 的智能对话应用，支持文件上传、联网搜索、上下文压缩等高级功能。本应用采用模块化设计，具有良好的可扩展性和用户体验。
+**Key Features**
+- Multi-model support: Compatible with various models using OpenAI API format
+- File processing: Supports text, Word, Excel, and multiple other file formats
+- Web search: Integrated DuckDuckGo, Brave, Google, and other search engines
+- Intelligent judgment: AI automatically determines if web search is needed
+- Context management: Automatically compresses long conversation history
+- Responsive design: Adapts to desktop and mobile devices
+- Dark mode: Supports theme switching
+- Real-time streaming: Supports thinking process display
 
-### 主要特性
-- **多模型支持**：兼容 OpenAI API 格式的多种模型
-- **文件处理**：支持文本、Word、Excel 等多种格式文件上传
-- **联网搜索**：集成 DuckDuckGo、Brave、Google 等搜索引擎
-- **智能判断**：AI 自动判断是否需要联网搜索
-- **上下文管理**：自动压缩长对话历史
-- **响应式设计**：适配桌面端和移动端
-- **暗色模式**：支持主题切换
-- **实时流式响应**：支持思考过程显示
-
-## 二、代码结构说明
-
-### 2.1 全局配置部分
+## 2. Code Structure
+### 2.1 Global Configuration
 ```javascript
-// 全局常量定义
-const MOBILE_BREAKPOINT = 786;          // 移动端断点
-const MAX_FILE_SIZE = 10 * 1024 * 1024; // 文件大小限制 10MB
-const SEARCH_PROXY = 'https://search.naujtrats.xyz'; // 搜索代理
-const ENCRYPTION_KEY = 'naujtrats-secret'; // 加密密钥
+// Global constants
+const MOBILE_BREAKPOINT = 786;          // Mobile breakpoint
+const MAX_FILE_SIZE = 10 * 1024 * 1024; // File size limit: 10MB
+const SEARCH_PROXY = 'https://search.naujtrats.xyz'; // Search proxy
+const ENCRYPTION_KEY = 'naujtrats-secret'; // Encryption key
 
-// 默认配置对象
+// Default configuration
 const DEFAULT_CONFIG = {
     key: '',                            // API Key
-    url: 'https://oneapi.naujtrats.xyz/v1', // API 地址
-    model: 'deepseek-chat',             // 默认模型
-    system: '你是一个有用的助手...',     // 系统提示词
-    // ... 其他配置项
+    url: 'https://oneapi.naujtrats.xyz/v1', // API endpoint
+    model: 'deepseek-chat',             // Default model
+    system: 'You are a helpful assistant...', // System prompt
+    // ... other configuration items
 };
 ```
 
-### 2.2 核心模块
-
-#### 1. 工具函数模块
-- **加密/解密**：`encrypt()`、`decrypt()` - 本地存储加密
-- **令牌估算**：`estimateTokens()` - 估算文本 token 数量
-- **文件处理**：`extractFileContent()` - 解析多种格式文件
-- **防抖节流**：`debounce()`、`throttle()` - 性能优化
-
-#### 2. UI 管理模块
-- **响应式布局**：`isMobile()`、`handleResize()` - 自适应屏幕
-- **主题切换**：`toggleDarkMode()` - 暗色/亮色模式
-- **消息渲染**：`appendMessage()` - 渲染聊天消息
-- **文件预览**：`updateFilePreviewUI()` - 显示上传文件
-
-#### 3. 配置管理模块
-- **配置保存**：`saveConfig()` - 保存用户设置到 localStorage
-- **模型管理**：`fetchModels()` - 获取可用模型列表
-- **搜索配置**：`createSearchConfigSection()` - 联网搜索设置界面
-
-#### 4. 联网搜索模块
-- **搜索判断**：`aiShouldSearch()` - AI 判断是否需要搜索
-- **搜索执行**：`performWebSearch()` - 执行实际搜索
-- **结果优化**：`optimizeSearchResults()` - AI 优化搜索结果
-- **搜索类型判断**：`aiChooseSearchType()` - 判断搜索类型（网页/新闻/图片）
-
-#### 5. 消息处理核心
-- **消息发送**：`sendMessage()` - 处理用户消息发送
-- **流式响应**：`streamResponse()` - 处理流式响应
-- **上下文压缩**：`compressContextIfNeeded()` - 自动压缩长对话
-- **标题生成**：`autoGenerateTitle()` - 自动生成对话标题
-
-#### 6. 对话管理
-- **对话创建**：`createNewChat()` - 创建新对话
-- **对话加载**：`loadChat()` - 加载历史对话
-- **对话删除**：`deleteChat()` - 删除对话
-- **历史管理**：`renderChatHistory()` - 渲染侧边栏历史列表
-
-## 三、使用文档
-
-### 3.1 快速开始
-
-#### 1. 基本配置
-1. 打开应用后，点击右上角设置按钮（⚙️）
-2. 在配置面板中输入：
-   - **API Key**：您的 OpenAI API 密钥或兼容 API 密钥
-   - **Base URL**：API 端点地址（默认：`https://oneapi.naujtrats.xyz/v1`）
-   - **模型选择**：选择要使用的 AI 模型
-3. 点击"刷新模型"按钮加载可用模型列表
-
-#### 2. 开始对话
-1. 在底部输入框中输入您的问题
-2. 按 Enter 发送，或点击发送按钮（↗️）
-3. AI 将开始回复，支持流式显示
-
-### 3.2 文件上传功能
-
-#### 支持的文件格式：
-- **文本文件**：`.txt`, `.md`, `.js`, `.py`, `.json`, `.html`, `.css` 等
-- **办公文档**：`.docx` (Word), `.xlsx`, `.xls` (Excel)
-- **其他**：`.xml`, `.csv`, `.log`, `.sh`, `.bat` 等
-
-#### 使用方法：
-1. 点击输入框旁边的"📎"图标选择文件
-2. 或直接将文件拖拽到输入区域
-3. 文件解析完成后会显示在输入框上方
-4. 发送消息时，文件内容会自动附加
-
-### 3.3 联网搜索功能
-
-#### 启用搜索：
-1. 在配置面板中找到"启用联网搜索"开关
-2. 开启后可以配置：
-   - **搜索引擎**：DuckDuckGo、Brave、Google
-   - **API Key**：部分搜索引擎需要 API Key
-   - **搜索类型**：网页、新闻、图片
-   - **AI 智能判断**：让 AI 判断是否需要搜索
-
-#### 搜索命令：
-- `/search [关键词]` - 强制网页搜索
-- `/news [关键词]` - 强制新闻搜索
-- `/image [关键词]` - 强制图片搜索
-
-#### 智能判断规则：
-AI 会根据以下关键词自动判断是否需要搜索：
-- 时间相关：今天、现在、最新、实时
-- 信息查询：什么是、怎么样、如何、为什么
-- 搜索意图：搜索、查找、查询、搜一下
-
-### 3.4 高级功能
-
-#### 1. 上下文压缩
-当对话历史过长时，系统会自动压缩：
-- **触发条件**：非系统消息数量超过阈值（默认10条）
-- **压缩方式**：AI 自动总结早期对话内容
-- **配置位置**：设置面板中的"启用上下文压缩"
-
-#### 2. 标题自动生成
-- 新对话会根据前几条消息自动生成标题
-- 标题模型可单独配置
-- 支持打字机效果显示
-
-#### 3. 消息操作
-- **复制**：点击消息右下角的复制按钮
-- **编辑**：点击用户消息的编辑按钮重新发送
-- **重新生成**：点击 AI 消息的重新生成按钮
-
-#### 4. 响应速度控制
-- **思考延迟**：控制 AI 思考过程的显示速度
-- **内容延迟**：控制回复内容的显示速度
-- **超时设置**：设置请求超时时间
-
-### 3.5 界面操作
-
-#### 侧边栏操作：
-- **桌面端**：鼠标悬停左侧显示对话历史
-- **移动端**：点击左上角菜单按钮展开侧边栏
-- **对话管理**：在侧边栏中点击对话标题切换，点击"×"删除
-
-#### 配置面板：
-- **桌面端**：右侧固定面板
-- **移动端**：从右侧滑出面板
-- **快速设置**：输入框旁边的搜索按钮可快速开关搜索功能
-
-#### 主题切换：
-- 点击右上角的月亮/太阳图标切换暗色/亮色模式
-- 主题偏好会自动保存
-
-### 3.6 键盘快捷键
-- **Enter**：发送消息（无 Shift）
-- **Shift + Enter**：换行
-- **Esc**：停止生成（当 AI 正在回复时）
-
-### 3.7 移动端适配
-
-#### 特殊功能：
-- **虚拟键盘处理**：输入时自动调整布局
-- **手势支持**：侧滑打开侧边栏/设置面板
-- **触摸优化**：按钮和交互元素适配触摸操作
-
-#### 布局调整：
-- 屏幕宽度 ≤ 786px 时自动切换为移动布局
-- 对话历史面板和设置面板变为滑动抽屉
-- 输入区域自动适应键盘弹出
-
-## 四、配置详解
-
-### 4.1 系统提示词配置
-默认系统提示词包含重要功能说明：
-- 知识库截止日期提醒
-- 联网搜索触发条件
-- 时间上下文处理规则
-- 用户时间基准设定
-
-### 4.2 模型参数配置
-- **温度**：控制回复的随机性（0-2）
-- **最大令牌数**：控制回复长度
-- **流式响应**：开启/关闭流式显示
-- **自定义参数**：JSON 格式的额外 API 参数
-
-### 4.3 显示设置
-- **字体大小**：12-24px 可调
-- **行高**：控制消息行间距
-- **段落间距**：控制段落间距
-- **段落前缀**：可选点号、破折号或无
-- **Markdown 渲染**：GFM 支持和换行处理
-
-### 4.4 搜索优化配置
-- **搜索结果优化**：AI 自动优化和总结搜索结果
-- **最大结果数**：1-10 条可调
-- **搜索超时**：5-120 秒可调
-- **搜索地区**：指定搜索区域（如 cn, us）
-
-## 五、技术实现细节
-
-### 5.1 数据存储
-- **本地存储**：使用 localStorage 存储配置和对话
-- **加密存储**：API Key 等敏感信息加密存储
-- **存储清理**：自动清理旧对话防止存储溢出
-
-### 5.2 错误处理
-- **网络错误**：友好的错误提示和重试建议
-- **API 错误**：详细的 HTTP 状态码和错误信息
-- **文件错误**：文件大小和格式限制提示
-- **超时处理**：可配置的超时时间和自动取消
-
-### 5.3 性能优化
-- **懒加载**：按需加载第三方库
-- **防抖节流**：滚动和调整大小事件优化
-- **虚拟滚动**：长消息列表的性能优化
-- **缓存策略**：模型列表和配置缓存
-
-### 5.4 安全性
-- **本地加密**：敏感信息客户端加密
-- **输入清理**：HTML 转义防止 XSS
-- **文件限制**：大小和类型限制
-- **API 安全**：密钥不发送到第三方（除 API 提供商）
-
-## 六、故障排除
-
-### 常见问题：
-
-#### 1. API 连接失败
-- 检查 API Key 是否正确
-- 验证 Base URL 是否可访问
-- 检查网络连接和防火墙设置
-
-#### 2. 文件上传失败
-- 确认文件大小 ≤ 10MB
-- 检查文件格式是否支持
-- 尝试重新选择文件
-
-#### 3. 搜索功能异常
-- 确认已开启联网搜索
-- 检查搜索引擎 API Key（如果需要）
-- 验证网络连接是否正常
-
-#### 4. 响应速度慢
-- 调整思考延迟和内容延迟设置
-- 检查网络延迟
-- 尝试更换模型或 API 端点
-
-#### 5. 存储空间不足
-- 系统会自动清理旧对话
-- 手动删除不需要的对话历史
-- 浏览器设置中清理 localStorage
-
-### 调试模式：
-在控制台输入 `logDebug()` 相关参数可查看详细调试信息。
-
-## 七、扩展开发
-
-### 7.1 添加新功能
-1. 在 `DEFAULT_CONFIG` 中添加配置项
-2. 在 `saveConfig()` 和 `initializeConfig()` 中处理配置
-3. 在 UI 中添加相应的控制元素
-4. 实现功能逻辑
-
-### 7.2 自定义样式
-- 通过 CSS 变量控制主题颜色
-- 修改 `injectStyles()` 中的样式
-- 调整响应式断点和布局
-
-### 7.3 集成新模型
-1. 确保模型兼容 OpenAI API 格式
-2. 在模型选择器中添加选项
-3. 根据需要调整请求参数
-
-### 7.4 添加新文件格式
-1. 在 `extractFileContent()` 中添加处理逻辑
-2. 引入相应的解析库
-3. 更新文件类型检测逻辑
-
-## 八、版本信息
-
-### 当前版本：v16.5
-**主要更新：**
-- 按需时间注入机制
-- 搜索判断强化
-- AI 智能搜索类型选择
-- 隐藏思考过程功能
-- 移动端输入优化
-
-### 依赖库：
-- marked：Markdown 解析
-- highlight.js：代码高亮
-- mammoth：Word 文档解析
-- SheetJS：Excel 文件解析
-
-## 九、注意事项
-
-1. **隐私保护**：对话内容存储在本地浏览器，请勿在公共设备上使用敏感信息
-2. **API 费用**：使用第三方 API 可能产生费用，注意用量控制
-3. **文件安全**：上传的文件仅在本地处理，不会上传到服务器
-4. **网络搜索**：搜索结果来自公开网络，请自行判断信息准确性
-5. **兼容性**：建议使用 Chrome、Firefox、Safari 等现代浏览器
-
-## 十、技术支持
-
-如有问题或建议，请：
-1. 检查控制台错误信息
-2. 查看本地存储的数据状态
-3. 尝试清除缓存后重新加载
-4. 联系开发者获取支持
-
----
-
-**最后更新**：2026年
-**文档版本**：1.0
-**适用版本**：main.js v16.5+
-
-*注意：本文档基于代码分析生成，实际功能以最新代码为准。*
-
+### 2.2 Core Modules
+1. **Utility Functions**
+   - Encryption/Decryption: `encrypt()`, `decrypt()` - Local storage encryption
+   - Token estimation: `estimateTokens()` - Estimates text token count
+   - File processing: `extractFileContent()` - Parses multiple file formats
+   - Debounce/Throttle: `debounce()`, `throttle()` - Performance optimization
+
+2. **UI Management**
+   - Responsive layout: `isMobile()`, `handleResize()` - Adaptive screen
+   - Theme switching: `toggleDarkMode()` - Dark/light mode
+   - Message rendering: `appendMessage()` - Renders chat messages
+   - File preview: `updateFilePreviewUI()` - Displays uploaded files
+
+3. **Configuration Management**
+   - Configuration saving: `saveConfig()` - Saves user settings to localStorage
+   - Model management: `fetchModels()` - Fetches available model list
+   - Search configuration: `createSearchConfigSection()` - Web search settings UI
+
+4. **Web Search Module**
+   - Search judgment: `aiShouldSearch()` - AI determines if search is needed
+   - Search execution: `performWebSearch()` - Executes actual search
+   - Result optimization: `optimizeSearchResults()` - AI optimizes search results
+   - Search type judgment: `aiChooseSearchType()` - Determines search type (web/news/image)
+
+5. **Message Processing Core**
+   - Message sending: `sendMessage()` - Handles user message sending
+   - Streaming response: `streamResponse()` - Handles streaming responses
+   - Context compression: `compressContextIfNeeded()` - Automatically compresses long conversations
+   - Title generation: `autoGenerateTitle()` - Automatically generates conversation titles
+
+6. **Conversation Management**
+   - Conversation creation: `createNewChat()` - Creates new conversation
+   - Conversation loading: `loadChat()` - Loads historical conversations
+   - Conversation deletion: `deleteChat()` - Deletes conversations
+   - History management: `renderChatHistory()` - Renders sidebar history list
+
+## 3. User Guide
+### 3.1 Quick Start
+1. **Basic Configuration**
+   - Open the application, click the settings button (⚙️) in the top-right corner
+   - In the configuration panel, enter:
+     - API Key: Your OpenAI API key or compatible API key
+     - Base URL: API endpoint address (default: `https://oneapi.naujtrats.xyz/v1`)
+     - Model Selection: Choose the AI model to use
+   - Click "Refresh Models" to load available model list
+
+2. **Start Conversation**
+   - Enter your question in the bottom input box
+   - Press Enter to send, or click the send button (↗️)
+   - AI will start responding with streaming display
+
+### 3.2 File Upload Feature
+**Supported File Formats:**
+- Text files: `.txt`, `.md`, `.js`, `.py`, `.json`, `.html`, `.css`, etc.
+- Office documents: `.docx` (Word), `.xlsx`, `.xls` (Excel)
+- Others: `.xml`, `.csv`, `.log`, `.sh`, `.bat`, etc.
+
+**Usage:**
+- Click the "📎" icon next to the input box to select files
+- Or drag and drop files directly into the input area
+- After file parsing completes, it will display above the input box
+- File content is automatically attached when sending messages
+
+### 3.3 Web Search Feature
+**Enable Search:**
+- Find the "Enable Web Search" switch in the configuration panel
+- After enabling, you can configure:
+  - Search engine: DuckDuckGo, Brave, Google
+  - API Key: Required for some search engines
+  - Search type: Web, News, Images
+  - AI intelligent judgment: Let AI determine if search is needed
+
+**Search Commands:**
+- `/search [keywords]` - Force web search
+- `/news [keywords]` - Force news search
+- `/image [keywords]` - Force image search
+
+**Intelligent Judgment Rules:**
+AI automatically determines if search is needed based on keywords:
+- Time-related: today, now, latest, real-time
+- Information queries: what is, how, why, how to
+- Search intent: search, find, query, look up
+
+### 3.4 Advanced Features
+1. **Context Compression**
+   - Automatically compresses when conversation history becomes too long:
+   - Trigger condition: Non-system messages exceed threshold (default: 10)
+   - Compression method: AI automatically summarizes early conversation content
+   - Configuration location: "Enable Context Compression" in settings panel
+
+2. **Automatic Title Generation**
+   - New conversations automatically generate titles based on first few messages
+   - Title model can be configured separately
+   - Supports typewriter effect display
+
+3. **Message Operations**
+   - Copy: Click the copy button at the bottom-right of messages
+   - Edit: Click the edit button on user messages to resend
+   - Regenerate: Click the regenerate button on AI messages
+
+4. **Response Speed Control**
+   - Thinking delay: Controls display speed of AI thinking process
+   - Content delay: Controls display speed of reply content
+   - Timeout settings: Sets request timeout duration
+
+### 3.5 Interface Operations
+**Sidebar Operations:**
+- Desktop: Hover mouse on left side to show conversation history
+- Mobile: Click menu button in top-left corner to expand sidebar
+- Conversation management: Click conversation titles to switch, click "×" to delete
+
+**Configuration Panel:**
+- Desktop: Fixed panel on the right side
+- Mobile: Slides out from the right side
+- Quick settings: Search button next to input box quickly toggles search function
+
+**Theme Switching:**
+- Click moon/sun icon in top-right corner to switch dark/light mode
+- Theme preferences are automatically saved
+
+### 3.6 Keyboard Shortcuts
+- `Enter`: Send message (without Shift)
+- `Shift + Enter`: New line
+- `Esc`: Stop generation (when AI is responding)
+
+### 3.7 Mobile Adaptation
+**Special Features:**
+- Virtual keyboard handling: Automatically adjusts layout during input
+- Gesture support: Side swipe opens sidebar/settings panel
+- Touch optimization: Buttons and interactive elements adapted for touch
+
+**Layout Adjustments:**
+- Automatically switches to mobile layout when screen width ≤ 786px
+- Conversation history and settings panels become sliding drawers
+- Input area automatically adapts to keyboard popup
+
+## 4. Configuration Details
+### 4.1 System Prompt Configuration
+Default system prompt includes important function descriptions:
+- Knowledge base cutoff date reminder
+- Web search trigger conditions
+- Time context processing rules
+- User time baseline settings
+
+### 4.2 Model Parameter Configuration
+- Temperature: Controls response randomness (0-2)
+- Max tokens: Controls response length
+- Streaming response: Enable/disable streaming display
+- Custom parameters: Additional API parameters in JSON format
+
+### 4.3 Display Settings
+- Font size: Adjustable 12-24px
+- Line height: Controls message line spacing
+- Paragraph spacing: Controls paragraph spacing
+- Paragraph prefix: Optional bullet, dash, or none
+- Markdown rendering: GFM support and line break handling
+
+### 4.4 Search Optimization Configuration
+- Search result optimization: AI automatically optimizes and summarizes search results
+- Max results: Adjustable 1-10 items
+- Search timeout: Adjustable 5-120 seconds
+- Search region: Specifies search area (e.g., cn, us)
+
+## 5. Technical Implementation Details
+### 5.1 Data Storage
+- Local storage: Uses localStorage for configuration and conversations
+- Encrypted storage: Sensitive information like API Keys are encrypted
+- Storage cleanup: Automatically cleans old conversations to prevent overflow
+
+### 5.2 Error Handling
+- Network errors: Friendly error prompts and retry suggestions
+- API errors: Detailed HTTP status codes and error messages
+- File errors: File size and format restriction prompts
+- Timeout handling: Configurable timeout durations and automatic cancellation
+
+### 5.3 Performance Optimization
+- Lazy loading: On-demand loading of third-party libraries
+- Debounce/throttle: Optimized scroll and resize events
+- Virtual scrolling: Performance optimization for long message lists
+- Cache strategy: Model list and configuration caching
+
+### 5.4 Security
+- Local encryption: Client-side encryption of sensitive information
+- Input sanitization: HTML escaping prevents XSS
+- File restrictions: Size and type limitations
+- API security: Keys not sent to third parties (except API providers)
+
+## 6. Troubleshooting
+**Common Issues:**
+1. **API Connection Failure**
+   - Check if API Key is correct
+   - Verify if Base URL is accessible
+   - Check network connection and firewall settings
+
+2. **File Upload Failure**
+   - Confirm file size ≤ 10MB
+   - Check if file format is supported
+   - Try reselecting the file
+
+3. **Search Function Abnormal**
+   - Confirm web search is enabled
+   - Check search engine API Key (if required)
+   - Verify network connection is normal
+
+4. **Slow Response Speed**
+   - Adjust thinking delay and content delay settings
+   - Check network latency
+   - Try changing model or API endpoint
+
+5. **Insufficient Storage Space**
+   - System automatically cleans old conversations
+   - Manually delete unnecessary conversation history
+   - Clear localStorage in browser settings
+
+**Debug Mode:**
+Enter `logDebug()` related parameters in console to view detailed debug information.
+
+## 7. Extension Development
+### 7.1 Adding New Features
+- Add configuration items in `DEFAULT_CONFIG`
+- Handle configuration in `saveConfig()` and `initializeConfig()`
+- Add corresponding control elements in UI
+- Implement feature logic
+
+### 7.2 Custom Styling
+- Control theme colors through CSS variables
+- Modify styles in `injectStyles()`
+- Adjust responsive breakpoints and layouts
+
+### 7.3 Integrating New Models
+- Ensure model compatibility with OpenAI API format
+- Add options in model selector
+- Adjust request parameters as needed
+
+### 7.4 Adding New File Formats
+- Add processing logic in `extractFileContent()`
+- Introduce corresponding parsing libraries
+- Update file type detection logic
+
+## 8. Version Information
+**Current Version:** v16.5
+
+**Major Updates:**
+- On-demand time injection mechanism
+- Enhanced search judgment
+- AI intelligent search type selection
+- Hidden thinking process feature
+- Mobile input optimization
+
+**Dependencies:**
+- marked: Markdown parsing
+- highlight.js: Code highlighting
+- mammoth: Word document parsing
+- SheetJS: Excel file parsing
+
+## 9. Important Notes
+- **Privacy Protection:** Conversation content stored locally in browser; avoid using sensitive information on public devices
+- **API Costs:** Using third-party APIs may incur charges; monitor usage
+- **File Security:** Uploaded files processed locally only, not uploaded to servers
+- **Web Search:** Search results from public web; judge information accuracy independently
+- **Compatibility:** Recommended modern browsers: Chrome, Firefox, Safari
+
+## 10. Technical Support
+For issues or suggestions:
+- Check console error messages
+- View local storage data status
+- Try clearing cache and reloading
+- Contact developer for support
+
+**Last Updated:** 2026  
+**Document Version:** 1.0  
+**Applicable Version:** main.js v16.5+
+
+*Note: This document is generated based on code analysis. Actual features subject to latest code.*
