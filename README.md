@@ -302,7 +302,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Email: xyq070519@gmail.com
 
 ### Documentation Resources
-- [Tutorial](docs/tutorial.md) (Planned)
+- [Tutorial](./docs/DOCUMENTATION.md)
 - [API Documentation](docs/api.md) (Planned)
 - [FAQ](docs/faq.md) (Planned)
 

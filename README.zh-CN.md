@@ -296,7 +296,7 @@ const SEARCH_PROXY = 'https://your-proxy-server.com';
 - 邮箱: xyq070519@gmail.com
 
 ### 文档资源
-- [使用教程](./DOCUMENTATION.md)
+- [使用教程](./docs/DOCUMENTATION.zh-CN.md)
 - [API 文档](docs/api.md)（计划中）
 - [常见问题](docs/faq.md)（计划中）
 
