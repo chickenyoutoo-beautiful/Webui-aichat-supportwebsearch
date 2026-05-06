@@ -1,0 +1,16 @@
+{
+  "progress_push": {
+    "name": "progress_push",
+    "interval": 60,
+    "action": "bash /home/naujtrats/.openclaw/scripts/progress_push.sh",
+    "enabled": true,
+    "created": "2026-05-05T00:12:29.302253",
+    "last_run": {
+      "time": "2026-05-07T00:26:00.270010",
+      "exit_code": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    "next_run": 1778084820.2701175
+  }
+}

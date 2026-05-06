@@ -1,0 +1,10 @@
+{
+    "searchApiKey": "sk-search-test",
+    "searchApiKeyBrave": "brave-key-xxx",
+    "searchApiKeyGoogle": "google-key-yyy",
+    "searchApiKeyTavily": "tavily-key-zzz",
+    "searchProvider": "brave",
+    "dark": "true",
+    "model": "gpt-4",
+    "updated_at": "2026-04-26T07:40:14+00:00"
+}

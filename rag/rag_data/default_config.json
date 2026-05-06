@@ -1,0 +1,5 @@
+{
+  "embed_model": "BAAI/bge-small-zh-v1.5",
+  "embed_base_url": "",
+  "mode": "hybrid"
+}

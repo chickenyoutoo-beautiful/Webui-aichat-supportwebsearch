@@ -1,0 +1,63 @@
+INFO:     Started server process [130994]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8765 (Press CTRL+C to quit)
+[RAG] fastembed 可用 (BAAI/bge-base-en 等)
+[RAG] LLM: deepseek-chat | 数据目录: /var/www/html/oneapichat/rag/rag_data
+[RAG v2] 启动 http://0.0.0.0:8765
+[RAG v2] 嵌入模式: 配置后可启用
+INFO:     127.0.0.1:25425 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25485 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24729 - "GET /collections HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24749 - "GET /list_models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24765 - "GET /embed_config?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24739 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25367 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25381 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25017 - "GET /list_models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25015 - "GET /embed_config?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25037 - "GET /collections HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25049 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25457 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23573 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25009 - "GET /embed_config?collection=u_1744a70a6ff783d3ae6e29d6_default&embed_model=BAAI%2Fbge-small-zh-v1.5&mode=hybrid HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25015 - "GET /embed_config?collection=u_1744a70a6ff783d3ae6e29d6_default&embed_model=BAAI%2Fbge-small-zh-v1.5&mode=hybrid HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25021 - "GET /embed_config?collection=u_1744a70a6ff783d3ae6e29d6_default&embed_model=BAAI%2Fbge-small-zh-v1.5&mode=hybrid HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22119 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24553 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24005 - "GET /collections HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24015 - "GET /list_models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24031 - "GET /embed_config?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24009 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24043 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24045 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22483 - "GET /delete_document?collection=u_1744a70a6ff783d3ae6e29d6_default&doc_id=5612a78f5176 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22495 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22497 - "POST /upload?collection=u_1744a70a6ff783d3ae6e29d6_default&mode=tfidf HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24223 - "GET /collections HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24233 - "GET /list_models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24243 - "GET /embed_config?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24231 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24251 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22213 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23635 - "GET /collections HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23661 - "GET /list_models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23675 - "GET /embed_config?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23633 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23691 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23703 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24891 - "GET /delete_document?collection=u_1744a70a6ff783d3ae6e29d6_default&doc_id=5612a78f5176 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24899 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24903 - "POST /upload?collection=u_1744a70a6ff783d3ae6e29d6_default&mode=tfidf HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23953 - "GET /collections HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23963 - "GET /list_models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23967 - "GET /embed_config?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23955 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23971 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24969 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24985 - "GET /delete_document?collection=u_1744a70a6ff783d3ae6e29d6_default&doc_id=5612a78f5176 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24999 - "GET /knowledge?collection=u_1744a70a6ff783d3ae6e29d6_default HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [130994]

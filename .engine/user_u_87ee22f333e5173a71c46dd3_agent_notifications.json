@@ -1,0 +1,402 @@
+[
+  {
+    "agent": "search-python313-features",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Python 3.13 new features improvements 2024):\n- [Breaking down Python 3.13's Latest Features](https://www.infoq.com/news/2024/10/python-313-latest-features/)\n  It introduces a revamped interactive interpreter with streamlined features like multi-line editing, enabling users to edit code blocks efficiently by retrieving the entire context with a single key pr\n\n- [All About Python 3.13.0 - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2024/10/python-3-13-0/)\n\n\n... [截断: 原内容60589字符]",
+    "error": "",
+    "time": "2026-05-05T23:44:07.755292",
+    "processed": true
+  },
+  {
+    "agent": "search-open-source-llm",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: 2024 best open source large language models LLM ranking):\n- [Best Open Source LLMs of 2024 (Costs, Performance, Latency)](https://dagshub.com/blog/best-open-source-llms/)\n  In this article, we will discuss which open source LLMs are the best in terms of adaptability (how much can they be adapted to different knowledge domains by fine-tuning), manageability (how easy it i\n\n- [AI's Top Picks: Dominating Open-Source LLMs in 2024 - Medium](https://medium.com/@ai-data-d\n\n... [截断: 原内容45592字符]",
+    "error": "",
+    "time": "2026-05-05T23:44:16.712942",
+    "processed": true
+  },
+  {
+    "agent": "search-llm-2024",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: 2024 best open source large language models):\n- [Best Open Source LLMs of 2024 (Costs, Performance, Latency)](https://dagshub.com/blog/best-open-source-llms/)\n  In this article, we will discuss which open source LLMs are the best in terms of adaptability (how much can they be adapted to different knowledge domains by fine-tuning), manageability (how easy it i\n\n- [The 5 Best Open-Source Large Language Models in 2024 | data.world](https://data.world/resources/compare\n\n... [截断: 原内容36498字符]",
+    "error": "",
+    "time": "2026-05-05T23:53:26.820624",
+    "processed": true
+  },
+  {
+    "agent": "search-python-313-features",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Python 3.13 new features 新特性 2024):\n- [Python 3.13 中的新特性](https://www.reddit.com/r/Python/comments/1hurapg/new_features_in_python_313/?tl=zh-hans)\n  3.13: 2024年10月7日. 实验性自由线程（没有GIL）。 实验性初步JIT ... Python 3.13 的最佳新功能. 210 个点赞· 36 条评论. Python 3.13 发布\n\n- [What's New In Python 3.13 — Python 3.14.5rc1 documentation](https://docs.python.org/3/whatsnew/3.13.html)\n  # What’s New In Python 3.13¶. This article explains the new features in Python 3.13, compared to 3.12. Python\n\n... [截断: 原内容35050字符]",
+    "error": "",
+    "time": "2026-05-06T00:02:20.033412",
+    "processed": true
+  },
+  {
+    "agent": "search-open-source-llm-2024",
+    "status": "failed",
+    "result": "我来帮你搜索2024年最佳开源大模型的信息。让我先进行多角度搜索。\n[工具: web_search] 搜索结果 (query: 2024年最佳开源大语言模型排名):\n- [2024 年8 个顶级开源LLM（大语言模型）](http://www.360doc.com/content/24/0702/16/1676247_1127687672.shtml)\n  如果说 Falcon 40B 已经给开源LLM 社区留下了深刻的印象（它在Hugging Face 的开源大型语言模型排行榜上排名#1），那么新的 Falcon 180B 表明专有和开源LLM\n\n- [1 开源大模型下载量排行榜（2024年3月更新版）](https://techdiylife.github.io/blog/blog.html?category1=c01&blogid=0030)\n  1 开源大模型下载量排行榜（2024年3月更新版） · 第一名：Mistral-7B · 第二名：LLaMA 2 · 第三名：Falcon · 第四名：Gemma · 第五名：ChatGLM · 第六名：通义千问Qwen1.5 · 第七\n\n... [截断: 原内容34359字符]",
+    "error": "Unterminated string starting at: line 1 column 47 (char 46)",
+    "time": "2026-05-06T00:02:23.523768",
+    "processed": true
+  },
+  {
+    "agent": "search-linux-optimization",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Linux系统性能优化技巧 内核参数调优 2024):\n- [Linux内核参数优化与调优实战指南 - OSCHINA](https://my.oschina.net/emacs_8635015/blog/16853479)\n  Linux内核参数优化是提升系统性能的关键步骤，涉及内存管理、调度、文件系统和网络等参数调整。通过sysctl命令可查看和修改参数，如调整vm.swappiness\n\n- [Linux性能优化实战：10个程序员必知的内核参数调优技巧](https://blog.csdn.net/m0_37649480/article/details/145588053)\n  本文将深入探讨10个程序员必知的内核参数调优技巧，帮助读者理解这些参数的作用、调优方法以及实际应用场景。通过本文的学习，读者将能够掌握如何根据不同的\n\n- [Linux系统性能调优：CPU、内存、磁盘I/O等资源的优化策略 - 腾讯云](https://cloud.tencent.com/developer/article/2566253)\n \n\n... [截断: 原内容44716字符]",
+    "error": "",
+    "time": "2026-05-06T00:03:38.757205",
+    "processed": true
+  },
+  {
+    "agent": "search-linux-tuning",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Linux系统性能调优技巧 2024):\n- [2024-08-02 linux系统性能优化七个实战经验](https://devopsz.top/docs/linux%E7%B3%BB%E7%BB%9F%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-%E4%B8%83%E4%B8%AA%E5%AE%9E%E6%88%98%E7%BB%8F%E9%AA%8C-linux-xi-tong-xing-neng-you-hua-qi-ge-shi-zhan-jing-yan/)\n  # Linux系统性能优化：七个实战经验 #. * 磁盘I/O：磁盘I/O性能是影响系统响应时间和吞吐量的重要因素。高磁盘I/O负载可能导致延迟增加、响应变慢和系统性能下降。. 利用 top、vmstat、pidstat、strace 以及 perf 等几个最常见的工具，获取 CPU 性能指标后，再结合进程与 CPU 的工作原理，就可以迅速定位出 CPU 性能瓶颈的来源。. 比如说，当你收到内存不\n\n- [Linux 系统高并\n\n... [截断: 原内容16634字符]",
+    "error": "",
+    "time": "2026-05-06T00:19:43.347515",
+    "processed": true
+  },
+  {
+    "agent": "search-python313",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Python 3.13 新特性 新语法 功能改进 性能提升):\n- [Python 3.13 新特性与更新详解](https://juejin.cn/post/7447783762837389338)\n  # Python 3.13 新特性与更新详解. 3. 实验性无 GIL 线程支持 (Free-threaded CPython). Python 3.13 于 2024 年 10 月 7 日发布，带来了语言、实现和标准库方面的诸多改进。本文将重点介绍 Python 3.13 中的**主要新特性和更新**。. 本文参考链接：What’s New In Python 3.13. Python 3.13\n\n- [python3.13 3.14 新特性好好好- 南鱼羁荒渡 - 博客园](https://www.cnblogs.com/nanyu/p/19356064)\n  # 南鱼. ## python3.13 3.14 新特性 好好好. **Python 3.13 和 3.14 版本**. | 特性类别 | Python 3.1\n\n... [截断: 原内容48152字符]",
+    "error": "",
+    "time": "2026-05-06T00:20:08.787527",
+    "processed": true
+  },
+  {
+    "agent": "search-llm-2024",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: 2024年最佳开源大模型排行榜 Llama Mistral GPT):\n- [2024年最佳开源LLM :哪些开源LLM是最好的？ | - 架构师](https://architect.pub/best-open-source-llms-2024-which-open-source-llms-are-best)\n  Mistral 7B是由Mistral AI开发的70亿参数LLM。它在所有基准测试中都优于Llama 2 13B，并使用滑动窗口注意力（SWA）来优化模型的注意力过程，从而显著提高了\n\n- [1 开源大模型下载量排行榜（2024年3月更新版）](https://techdiylife.github.io/blog/blog.html?category1=c01&blogid=0030)\n  1 开源大模型下载量排行榜（2024年3月更新版） · 第一名：Mistral-7B · 第二名：LLaMA 2 · 第三名：Falcon · 第四名：Gemma · 第五名：ChatGLM · 第六名：通义千问Qwen1.\n\n... [截断: 原内容41100字符]",
+    "error": "",
+    "time": "2026-05-06T00:20:28.169797",
+    "processed": true
+  },
+  {
+    "agent": "search-llm-2024",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: 2024年最佳开源大模型排名 性能对比):\n- [2024开源大语言模型全面评测：性能对比与最佳实践](https://kunyun-tech.com/2024/12/17/%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94%E8%AF%84%E6%B5%8B/)\n  深度对比分析主流开源大语言模型（LLM）的性能表现，包括ChatGLM、Llama2等，从多个维度进行全面评测，为企业和开发者提供专业的模型选型参考指南。\n\n- [中文大模型2024 半年报出炉，通义千问通用能力国内第一 - 极客公园](https://www.geekpark.net/news/337772)\n  # 中文大模型 2024 半年报出炉，通义千问通用能力国内第一. 7 月 10 日消息，中文大模型测评基准 SuperCLUE 发布 2024 上半年报告，披露针对国内外 33 个大模型的综合测评结果。阿里通义千问的开源模型 Qwen2-72B 成为排名第一的中国大模型，也\n\n... [截断: 原内容38266字符]",
+    "error": "",
+    "time": "2026-05-06T00:25:38.482258",
+    "processed": true
+  },
+  {
+    "agent": "search-python313",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Python 3.13 new features improvements 2024):\n- [Python 3.13 New Features - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-3-13-new-features/)\n  # Python 3.13 New Features. This version introduced many new features and improvements. This is a pre-release of the next Python version, which introduced some new features as well as improvements to \n\n- [All About Python 3.13.0 - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2024/10/python-3-13-0/)\n  M\n\n... [截断: 原内容38337字符]",
+    "error": "",
+    "time": "2026-05-06T00:25:59.714011",
+    "processed": true
+  },
+  {
+    "agent": "search-linux-tuning",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Linux系统性能调优技巧 2024):\n- [2024-08-02 linux系统性能优化七个实战经验](https://devopsz.top/docs/linux%E7%B3%BB%E7%BB%9F%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-%E4%B8%83%E4%B8%AA%E5%AE%9E%E6%88%98%E7%BB%8F%E9%AA%8C-linux-xi-tong-xing-neng-you-hua-qi-ge-shi-zhan-jing-yan/)\n  # Linux系统性能优化：七个实战经验 #. * 磁盘I/O：磁盘I/O性能是影响系统响应时间和吞吐量的重要因素。高磁盘I/O负载可能导致延迟增加、响应变慢和系统性能下降。. 利用 top、vmstat、pidstat、strace 以及 perf 等几个最常见的工具，获取 CPU 性能指标后，再结合进程与 CPU 的工作原理，就可以迅速定位出 CPU 性能瓶颈的来源。. 比如说，当你收到内存不\n\n- [Linux 系统高并\n\n... [截断: 原内容16680字符]",
+    "error": "",
+    "time": "2026-05-06T00:26:05.415215",
+    "processed": true
+  },
+  {
+    "agent": "search-python313",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Python 3.13 new features free-threaded mode PEP 703):\n- [Free Threaded Mode in Python3.13 (GIL disabled) | by Behitek](https://medium.com/@behitek/free-threaded-mode-in-python3-13-gil-disabled-18a6974a2ede)\n  Python 3.13 was just released recently, with an amazing new feature called “Free threaded mode”. This is a great improvement for the\n\n- [GIL Become Optional in Python 3.13 : r/programming - Reddit](https://www.reddit.com/r/programming/comments/1eq4vzd/gil_beco\n\n... [截断: 原内容25327字符]",
+    "error": "",
+    "time": "2026-05-06T00:28:06.682646",
+    "processed": true
+  },
+  {
+    "agent": "search-linux-tuning",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Linux系统性能调优技巧 2024):\n- [2024-08-02 linux系统性能优化七个实战经验](https://devopsz.top/docs/linux%E7%B3%BB%E7%BB%9F%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-%E4%B8%83%E4%B8%AA%E5%AE%9E%E6%88%98%E7%BB%8F%E9%AA%8C-linux-xi-tong-xing-neng-you-hua-qi-ge-shi-zhan-jing-yan/)\n  # Linux系统性能优化：七个实战经验 #. * 磁盘I/O：磁盘I/O性能是影响系统响应时间和吞吐量的重要因素。高磁盘I/O负载可能导致延迟增加、响应变慢和系统性能下降。. 利用 top、vmstat、pidstat、strace 以及 perf 等几个最常见的工具，获取 CPU 性能指标后，再结合进程与 CPU 的工作原理，就可以迅速定位出 CPU 性能瓶颈的来源。. 比如说，当你收到内存不\n\n- [Linux 系统高并\n\n... [截断: 原内容22178字符]",
+    "error": "",
+    "time": "2026-05-06T00:28:19.215015",
+    "processed": true
+  },
+  {
+    "agent": "search-llm-2024",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: 2024年最佳开源大模型排行榜 Llama Qwen DeepSeek):\n- [⽬前 主流的开源模型体系 有哪些？-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2604337)\n  [](https://cloud.tencent.com/developer/user/7620466). [社区首页](https://cloud.tencent.com/developer)>[专栏](https://cloud.tencent.com/developer/column)>⽬前 主流的开源模型体系 有哪些？. *   • **特点**：谷歌推出的轻量级、高性能开源模型，旨在为开\n\n- [1 开源大模型下载量排行榜（2024年3月更新版）](https://techdiylife.github.io/blog/blog.html?category1=c01&blogid=0030)\n  1 开源大模型下载量排行榜（2024年3月更新版） · 第一名：Mis\n\n... [截断: 原内容27854字符]",
+    "error": "",
+    "time": "2026-05-06T00:30:32.613597",
+    "processed": true
+  },
+  {
+    "agent": "search-python-313-features",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Python 3.13 new features 2024):\n- [Breaking down Python 3.13's Latest Features](https://www.infoq.com/news/2024/10/python-313-latest-features/)\n  It introduces a revamped interactive interpreter with streamlined features like multi-line editing, enabling users to edit code blocks efficiently by retrieving the entire context with a single key pr\n\n- [Python 3.13.0 (final) released](https://blog.python.org/2024/10/python-3130-final-released/)\n  # Python 3.13.0 (final)\n\n... [截断: 原内容25345字符]",
+    "error": "",
+    "time": "2026-05-06T00:36:16.988540",
+    "processed": true
+  },
+  {
+    "agent": "search-open-source-llm-2024",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: 2024年最佳开源大模型排名 Llama Mistral):\n- [【大语言模型】2024年最佳开源LLM | 架构师研究会](https://architect.pub/best-open-source-llms-2024)\n  Best Open Source LLMs of 2024. ### category. > 现任领导者：Mixtral、Mistral 7b和Llama 2. > Mistral 7B和Llama 2是多功能的基础模型，可在广泛的用例中进行微调以进行优化。Klu Evaluate帮助AI团队从迭代中排除猜测工作→. ## 测试、运行和选择的综合指南. 开源大型语言模型（LLM）功能强大，现在几乎\n\n- [1 开源大模型下载量排行榜（2024年3月更新版）](https://techdiylife.github.io/blog/blog.html?category1=c01&blogid=0030)\n  1 开源大模型下载量排行榜（2024年3月更新版） · 第一名：Mistral-7B · 第二\n\n... [截断: 原内容20273字符]",
+    "error": "",
+    "time": "2026-05-06T00:36:55.244808",
+    "processed": true
+  },
+  {
+    "agent": "search-linux-optimization",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Linux系统性能调优最佳实践 2024):\n- [2024-08-02 linux系统性能优化七个实战经验](https://devopsz.top/docs/linux%E7%B3%BB%E7%BB%9F%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-%E4%B8%83%E4%B8%AA%E5%AE%9E%E6%88%98%E7%BB%8F%E9%AA%8C-linux-xi-tong-xing-neng-you-hua-qi-ge-shi-zhan-jing-yan/)\n  # Linux系统性能优化：七个实战经验 #. * 磁盘I/O：磁盘I/O性能是影响系统响应时间和吞吐量的重要因素。高磁盘I/O负载可能导致延迟增加、响应变慢和系统性能下降。. 利用 top、vmstat、pidstat、strace 以及 perf 等几个最常见的工具，获取 CPU 性能指标后，再结合进程与 CPU 的工作原理，就可以迅速定位出 CPU 性能瓶颈的来源。. 比如说，当你收到内存不\n\n- [Linux 系统\n\n... [截断: 原内容23115字符]",
+    "error": "",
+    "time": "2026-05-06T00:36:57.816921",
+    "processed": true
+  },
+  {
+    "agent": "search-linux-optimization",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Linux系统性能调优最佳实践 2024):\n- [2024-08-02 linux系统性能优化七个实战经验](https://devopsz.top/docs/linux%E7%B3%BB%E7%BB%9F%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-%E4%B8%83%E4%B8%AA%E5%AE%9E%E6%88%98%E7%BB%8F%E9%AA%8C-linux-xi-tong-xing-neng-you-hua-qi-ge-shi-zhan-jing-yan/)\n  # Linux系统性能优化：七个实战经验 #. * 磁盘I/O：磁盘I/O性能是影响系统响应时间和吞吐量的重要因素。高磁盘I/O负载可能导致延迟增加、响应变慢和系统性能下降。. 利用 top、vmstat、pidstat、strace 以及 perf 等几个最常见的工具，获取 CPU 性能指标后，再结合进程与 CPU 的工作原理，就可以迅速定位出 CPU 性能瓶颈的来源。. 比如说，当你收到内存不\n\n- [Linux 系统\n\n... [截断: 原内容20904字符]",
+    "error": "",
+    "time": "2026-05-06T00:37:06.229804",
+    "processed": true
+  },
+  {
+    "agent": "search-python-313-features",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Python 3.13 new features 2024):\n- [Breaking down Python 3.13's Latest Features](https://www.infoq.com/news/2024/10/python-313-latest-features/)\n  It introduces a revamped interactive interpreter with streamlined features like multi-line editing, enabling users to edit code blocks efficiently by retrieving the entire context with a single key pr\n\n- [Python 3.13.0 (final) released](https://blog.python.org/2024/10/python-3130-final-released/)\n  # Python 3.13.0 (final)\n\n... [截断: 原内容35461字符]",
+    "error": "",
+    "time": "2026-05-06T00:37:18.464762",
+    "processed": true
+  },
+  {
+    "agent": "search_linux_optimization",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Linux系统性能调优技巧 2024):\n- [2024-08-02 linux系统性能优化七个实战经验](https://devopsz.top/docs/linux%E7%B3%BB%E7%BB%9F%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-%E4%B8%83%E4%B8%AA%E5%AE%9E%E6%88%98%E7%BB%8F%E9%AA%8C-linux-xi-tong-xing-neng-you-hua-qi-ge-shi-zhan-jing-yan/)\n  # Linux系统性能优化：七个实战经验 #. * 磁盘I/O：磁盘I/O性能是影响系统响应时间和吞吐量的重要因素。高磁盘I/O负载可能导致延迟增加、响应变慢和系统性能下降。. 利用 top、vmstat、pidstat、strace 以及 perf 等几个最常见的工具，获取 CPU 性能指标后，再结合进程与 CPU 的工作原理，就可以迅速定位出 CPU 性能瓶颈的来源。. 比如说，当你收到内存不\n\n- [Linux 系统高并\n\n... [截断: 原内容36092字符]",
+    "error": "",
+    "time": "2026-05-06T00:40:54.915224",
+    "processed": true
+  },
+  {
+    "agent": "search_python313_features",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Python 3.13 new features syntax improvements performance optimizations):\n- [Python 3.13 New Features - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-3-13-new-features/)\n  # Python 3.13 New Features. This version introduced many new features and improvements. This is a pre-release of the next Python version, which introduced some new features as well as improvements to \n\n- [What's New in Python 3.13: Key Features & Improvements](https://www.mlwithhamza.\n\n... [截断: 原内容49604字符]",
+    "error": "",
+    "time": "2026-05-06T00:40:57.686727",
+    "processed": true
+  },
+  {
+    "agent": "search_open_source_llm_2024",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: 2024 best open source large language models LLaMA Mistral Falcon comparison):\n- [The 5 Best Open-Source Large Language Models in 2024 | data.world](https://data.world/resources/compare/best-open-source-large-language-models/)\n  Discover the best open-source Large Language Models (LLMs). ## Why choose open-source large language models (LLMs). Open-source LLMS are those models that make their codes and training data publicly a\n\n- [7 Best LLMs To Use In 2024: A Comple\n\n... [截断: 原内容43141字符]",
+    "error": "",
+    "time": "2026-05-06T00:41:25.731063",
+    "processed": true
+  },
+  {
+    "agent": "search_linux_optimization",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Linux系统性能调优技巧 2024):\n- [2024-08-02 linux系统性能优化七个实战经验](https://devopsz.top/docs/linux%E7%B3%BB%E7%BB%9F%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-%E4%B8%83%E4%B8%AA%E5%AE%9E%E6%88%98%E7%BB%8F%E9%AA%8C-linux-xi-tong-xing-neng-you-hua-qi-ge-shi-zhan-jing-yan/)\n  # Linux系统性能优化：七个实战经验 #. * 磁盘I/O：磁盘I/O性能是影响系统响应时间和吞吐量的重要因素。高磁盘I/O负载可能导致延迟增加、响应变慢和系统性能下降。. 利用 top、vmstat、pidstat、strace 以及 perf 等几个最常见的工具，获取 CPU 性能指标后，再结合进程与 CPU 的工作原理，就可以迅速定位出 CPU 性能瓶颈的来源。. 比如说，当你收到内存不\n\n- [Linux 系统高并\n\n... [截断: 原内容36357字符]",
+    "error": "",
+    "time": "2026-05-06T00:42:39.638148",
+    "processed": true
+  },
+  {
+    "agent": "search_python313_features",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Python 3.13 new features updates 2024):\n- [Breaking down Python 3.13's Latest Features](https://www.infoq.com/news/2024/10/python-313-latest-features/)\n  It introduces a revamped interactive interpreter with streamlined features like multi-line editing, enabling users to edit code blocks efficiently by retrieving the entire context with a single key pr\n\n- [Python 3.13.0 (final) released](https://blog.python.org/2024/10/python-3130-final-released/)\n  # Python 3.13.0\n\n... [截断: 原内容36452字符]",
+    "error": "",
+    "time": "2026-05-06T00:42:44.383958",
+    "processed": true
+  },
+  {
+    "agent": "search_open_source_llm_2024",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: 2024年最佳开源大模型 LLaMA Mistral Qwen 性能对比):\n- [2024开源大语言模型全面评测：性能对比与最佳实践 - TechFlow Hub](https://kunyun-tech.com/2024/12/17/%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94%E8%AF%84%E6%B5%8B/)\n  Qwen：工具调用能力强; ChatGLM3：中文编程文档理解好. 3. 知识问答. Yi：知识面广; Qwen：专业领域表现好; Mistral：推理能力强. 优缺点分析. LLaMA 2. 优点\n\n- [10大开源大模型：性能对比及选择指南 - 冷月清谈](https://www.xinfinite.net/t/topic/8369)\n  Llama 3系列性能卓越，70B版本接近GPT-4 Turbo；Phi-3系列模型小巧高效，可在资源有限的环境运行；Qwen1.5-110B性能超越Llama 3 70B，重返开源\n\n... [截断: 原内容23143字符]",
+    "error": "",
+    "time": "2026-05-06T00:42:46.752936",
+    "processed": true
+  },
+  {
+    "agent": "search_python313_features",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Python 3.13 new features 2024):\n- [Breaking down Python 3.13's Latest Features](https://www.infoq.com/news/2024/10/python-313-latest-features/)\n  It introduces a revamped interactive interpreter with streamlined features like multi-line editing, enabling users to edit code blocks efficiently by retrieving the entire context with a single key pr\n\n- [Python 3.13.0 (final) released](https://blog.python.org/2024/10/python-3130-final-released/)\n  # Python 3.13.0 (final)\n\n... [截断: 原内容47698字符]",
+    "error": "",
+    "time": "2026-05-06T00:43:53.807613",
+    "processed": true
+  },
+  {
+    "agent": "search_linux_optimization",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Linux CPU性能优化技巧 内核参数调优):\n- [Linux系统性能优化与调优 - 知乎专栏](https://zhuanlan.zhihu.com/p/648178070)\n  Linux内核具有大量的参数可供调整，通过合理调整这些参数可以提高系统性能。以下是一些常见的优化内核参数的技巧：. 调整文件系统参数：通过调整文件系统的inode和block\n\n- [Linux内核优化及性能调优研究 - 知乎专栏](https://zhuanlan.zhihu.com/p/652434521)\n  1. 内核参数调整：调整Linux内核的各类参数，如文件系统缓存大小、网络缓冲区大小、TCP参数等，以提升系统的性能和吞吐量。 2. 内存管理优化：通过合理设置\n\n- [Linux 系统性能优化全面指南：从监控到调优 - 博客园](https://www.cnblogs.com/ydswin/p/18074371)\n  ## Linux 系统性能优化全面指南：从监控到调优. Linux 性能优化是一个系统化工程，需要全面考虑硬件资\n\n... [截断: 原内容47130字符]",
+    "error": "",
+    "time": "2026-05-06T01:15:43.186902",
+    "processed": true
+  },
+  {
+    "agent": "search_python313_features",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: Python 3.13 new features 2024 release highlights):\n- [Python 3.13.0 (final) released](https://blog.python.org/2024/10/python-3130-final-released/)\n  # Python 3.13.0 (final) released. # Python 3.13.0 is now available. # This is the stable release of Python 3.13.0. Python 3.13.0 is the newest major release of the Python programming language, and it \n\n- [What's New in Python 3.13.0: The Latest and Greatest Features!](https://medium.com/@sumakbn/whats-new-in-python-3-1\n\n... [截断: 原内容64365字符]",
+    "error": "",
+    "time": "2026-05-06T01:16:36.294617",
+    "processed": true
+  },
+  {
+    "agent": "search_open_source_llm",
+    "status": "completed",
+    "result": "\n[工具: web_search] 搜索结果 (query: 2024年最佳开源大语言模型排名 Llama Mistral Qwen):\n- [前主流的开源模型体系有哪些？-腾讯云开发者社区](https://cloud.tencent.com/developer/article/2604337)\n  [](https://cloud.tencent.com/developer/user/7620466). [社区首页](https://cloud.tencent.com/developer)>[专栏](https://cloud.tencent.com/developer/column)>⽬前 主流的开源模型体系 有哪些？. *   • **特点**：谷歌推出的轻量级、高性能开源模型，旨在为开\n\n- [1 开源大模型下载量排行榜（2024年3月更新版）](https://techdiylife.github.io/blog/blog.html?category1=c01&blogid=0030)\n  1 开源大模型下载量排行榜（2024年3月更新版） · 第一名：Mistral-7B\n\n... [截断: 原内容38222字符]",
+    "error": "",
+    "time": "2026-05-06T01:16:58.936654",
+    "processed": true
+  },
+  {
+    "agent": "ai_news_searcher",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T16:29:26.197964",
+    "processed": true
+  },
+  {
+    "agent": "agent_interaction_researcher",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T16:29:52.101965",
+    "processed": true
+  },
+  {
+    "agent": "ai_news_search",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T16:32:29.081234",
+    "processed": true
+  },
+  {
+    "agent": "agent_architecture_design",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T16:34:43.690691",
+    "processed": true
+  },
+  {
+    "agent": "agent_interaction_research",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T16:35:50.203482",
+    "processed": true
+  },
+  {
+    "agent": "agent-interaction-research",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T16:40:35.513831",
+    "processed": true
+  },
+  {
+    "agent": "ai-news-searcher",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T16:41:21.821407",
+    "processed": true
+  },
+  {
+    "agent": "agent-architecture-design",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T16:43:03.621743",
+    "processed": true
+  },
+  {
+    "agent": "ai-news-search",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T16:47:22.961342",
+    "processed": true
+  },
+  {
+    "agent": "agent-arch-research",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T16:47:50.212802",
+    "processed": true
+  },
+  {
+    "agent": "agent-interaction-research",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T16:48:33.332243",
+    "processed": true
+  },
+  {
+    "agent": "agent-interaction-research",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T16:50:12.634758",
+    "processed": true
+  },
+  {
+    "agent": "ai-news-search",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T16:50:58.177664",
+    "processed": true
+  },
+  {
+    "agent": "agent-arch-research",
+    "status": "failed",
+    "result": "我将搜索AI Agent架构设计的各个方面，然后整理成完整的指南。\n[工具: web_search] 搜索结果 (query: AI Agent architecture design patterns best practices 2024):\n- [[PDF] Building Effective AI Agents: Architecture Patterns and ... - Anthropic](https://resources.anthropic.com/hubfs/Building%20Effective%20AI%20Agents-%20Architecture%20Patterns%20and%20Implementation%20Frameworks.pdf?utm_source=enterpriseaiexecutive.ai&utm_medium=referral&utm_campaign=deloitte-s-ai-playbook-for-cxos)\n  Pattern selection guide These constraints translate into clear architectural recommendations: Single agents work best for: • Customer service processes for well-defined product categories • Document p\n\n- [Building Multi-Agent AI Systems: Architecture Patterns and Best ...](https://dev.to/matt_frank_usa/building-multi-agent-ai-systems-architecture-patterns-and-best-practices-5cf)\n  [Skip to content](https://dev.to/matt_frank_usa/building-multi-agent-ai-systems-architecture-patterns-and-best-practices-5cf#main-content). [Share Post via...](https://dev.to/matt_frank_usa/building-m\n\n- [AI Agent Orchestration Patterns - Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/ai-agent-design-patterns)\n  5.   [Group chat orchestration](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/ai-agent-design-patterns#group-chat-orchestration). [](https://learn.microsoft.com/en-us/azure/architec\n\n- [Learn AI Agent Design Patterns: 9 Trends to Stay Ahead | Rakesh Gohel posted on the topic | LinkedIn](https://www.linkedin.com/posts/rakeshgohel01_building-ai-agents-these-9-patterns-are-activity-7361739094168653824-5YLO)\n  [Skip to main content](https://www.linkedin.com/posts/rakeshgohel01_building-ai-agents-these-9-patterns-are-activity-7361739094168653824-5YLO#main-content)[LinkedIn](https://www.linkedin.com/?trk=publ\n\n- [AI Agent Design Best Practices You Can Use Today](https://hatchworks.com/blog/ai-agents/ai-agent-design-best-practices/)\n  # AI Agent Design Best Practices You Can Use Today. Whether you’re building your first agent or scaling a fleet of them, these best practices will help you avoid the common traps and design agents tha\n\n- [Best Practices & Design Patterns for Enterprise Scale Agentic AI ...](https://www.reddit.com/r/Agentic_AI_For_Devs/comments/1nj5bgd/best_practices_design_patterns_for_enterprise/)\n  Think workflows, not just agents. An agent by itself won't magically fix things. · Build in guardrails early. · Don't skip memory. · Tooling &\n\n- [The Roadmap to Mastering Agentic AI Design Patterns](https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/)\n  # The Roadmap to Mastering Agentic AI Design Patterns. In this article, you will learn how to systematically select and apply agentic AI design patterns to build reliable, scalable agent systems. Most\n\n- [Enterprise AI Agents: Agentic Design Patterns Explained](https://www.tungstenautomation.com/learn/blog/build-enterprise-grade-ai-agents-agentic-design-patterns)\n  # How to Build Enterprise Grade AI Agents with Agentic Design Patterns. Agentic AI Design Patterns are emerging right at the center of this tension, acting as the architectural blueprints that help en\n\n注: 如需查看详情请使用 web_fetch 工具抓取网页内容。\n[工具: web_search] 搜索结果 (query: multi-agent system design patterns coordination):\n- [Multi-Agent Systems: Design Patterns and Orchestration - Tetrate](https://tetrate.io/learn/ai/multi-agent-systems)\n  # Multi-Agent Systems: Design Patterns and Orchestration. Rather than relying on a single monolithic AI model to handle all tasks, multi-agent systems distribute responsibilities across multiple speci\n\n- [A Taxonomy of Hierarchical Multi-Agent Systems: Design Patterns ...](https://arxiv.org/html/2508.12683)\n  # A Taxonomy of Hierarchical Multi-Agent Systems: Design Patterns, Coordination Mechanisms, and Industrial Applications. Hierarchical multi-agent systems (HMAS) organize collections of agents into lay\n\n- [Multi-Agent Patterns Explained: Coordination and Concurrency Models | Tyler Jewell posted on the topic | LinkedIn](https://www.linkedin.com/posts/tylerjewell_multi-agent-patterns-post-2-coordination-activity-7433237582156759040-wyFD)\n  * [Report this post](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ftylerjewell_multi-agent-patterns-post-2-coordination-activity-7433237582156759040-wyFD&trk=public_post_ellipsi\n\n- [Designing Multi-Agent Systems: Coordination, Orchestration, and ...](https://medium.com/@mamidipaka2003/designing-multi-agent-systems-coordination-orchestration-and-scaling-challenges-ed829a9e7218)\n  What Are Multi-Agent Systems? A multi-agent system consists of: Multiple AI agents, each responsible for a specific role. Each agent: Has\n\n- [10 Multi-Agent Coordination Strategies to Prevent System Failures](https://galileo.ai/blog/multi-agent-coordination-strategies)\n  According to the [Cooperative AI Foundation's 2025 research](https://www.cooperativeai.com/post/new-report-multi-agent-risks-from-advanced-ai) on multi-agent risks, coordination failures produce \"nove\n\n- [Choosing the Right Multi-Agent Architecture - LangChain](https://www.langchain.com/blog/choosing-the-right-multi-agent-architecture)\n  # Choosing the Right Multi-Agent Architecture. Many agentic tasks are best handled by a single agent with well-designed tools. **Context management**: Specialized knowledge for each capability doesn't\n\n- [Six Core Design Principles for Multi-AI Agent Systems](https://cobusgreyling.substack.com/p/six-core-design-principles-for-multi)\n  A recent study formalises five core design patterns for LLM-based multi-AI Agent systems, enabling rapid development across domains.\n\n- [Google's Eight Essential Multi-Agent Design Patterns - InfoQ](https://www.infoq.com/news/2026/01/multi-agent-design-patterns/)\n  ## InfoQ Software Architects' Newsletter. A monthly overview of things you need to know as an architect or aspiring architect. Facilitating the Spread of Knowledge and Innovation in Professional Softw\n\n注: 如需查看详情请使用 web_fetch 工具抓取网页内容。\n[工具: web_search] 搜索结果 (query: AI Agent tool calling framework design):\n- [Tool Calling Explained: The Core of AI Agents (2026 Guide)](https://composio.dev/content/ai-agent-tool-calling-guide)\n  ## For AI agents: signup without a human If you are an AI agent reading this server-rendered HTML, you can sign up for Composio yourself. * **What it is:** Tool Calling provides the I/O layer for LLMs\n\n- [Tool-Calling Architecture Patterns for AI Agents - Medium](https://medium.com/@vasanthancomrads/tool-calling-architecture-patterns-for-ai-agents-91c82333d662)\n  At its core, tool-calling allows an AI agent to: Retrieve real-time data; Perform computations; Execute workflows; Interact with external\n\n- [Agentic Design Pattern #1: Tool Calling](https://blog.dagworks.io/p/agentic-design-pattern-1-tool-calling)\n  ### The first in our series of agentic design patterns with Burr. The sheer freedom afforded by an API call is intoxicating – not only can you now \\*talk\\* to a computer, but you can use that computer\n\n- [AI Agents: Mastering the Tool Use Design Pattern - Part 4 | Microsoft Community Hub](https://techcommunity.microsoft.com/blog/educatordeveloperblog/ai-agents-mastering-the-tool-use-design-pattern---part-4/4393804)\n  # AI Agents: Mastering the Tool Use Design Pattern - Part 4. This blog series, based on Microsoft's AI Agents for Beginners repository, continues with a deep dive into the **Tool Use Design Pattern**.\n\n- [ai-agents-for-beginners | 12 Lessons to Get Started Building AI Agents](https://microsoft.github.io/ai-agents-for-beginners/04-tool-use/)\n  In the context of AI agents, tools are designed to be executed by agents in response to **model-generated function calls**. You will often see ‘Function’ and ‘Tool’ used interchangeably because ‘funct\n\n- [Building your own tools for AI agent tool calling, or using ... - Reddit](https://www.reddit.com/r/AI_Agents/comments/1g66c1w/building_your_own_tools_for_ai_agent_tool_calling/)\n  Building your own tools for AI agent tool calling, or using what comes with the frameworks? Curious if folks are typically using the built\n\n- [Tool Calling in AI Agents: Empowering Intelligent Automation Securely | Auth0](https://auth0.com/blog/genai-tool-calling-intro/)\n  Similarly, tool calling allows AI agents to interface with other applications and services, like Gmail, Calendar, Slack, and Google Drive, to do more for you than just answering questions. When your A\n\n- [Build a Tool Calling Agent - YouTube](https://www.youtube.com/watch?v=eKmj_xXPX0A)\n  Tool calling allows large language models (LLMs) to work with external tools by following user-defined instructions, enabling you to turn\n\n注: 如需查看详情请使用 web_fetch 工具抓取网页内容。\n[工具: web_search] 搜索结果 (query: AI Agent memory management system design):\n- [GitHub - AIAnytime/Agent-Memory-Playground: Agent Memory Playground: AI Agent Memory Design & Optimization Techniques · GitHub](https://github.com/AIAnytime/Agent-Memory-Playground)\n  [Skip to content](https://github.com/AIAnytime/Agent-Memory-Playground#start-of-content). [Reload](https://github.com/AIAnytime/Agent-Memory-Playground) to refresh your session.You signed out in anoth\n\n- [What Is AI Agent Memory? | IBM](https://www.ibm.com/think/topics/ai-agent-memory)\n  AI agent memory refers to an [artificial intelligence](https://www.ibm.com/think/topics/artificial-intelligence) (AI) system’s ability to store and recall past experiences to improve decision-making, \n\n- [Designing Memory Architecture for AI Agents](https://medium.com/data-science-collective/designing-memory-architecture-for-ai-agents-27d53bd68c31)\n  [Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2Fdata-science-collective%2Fdesigning-memory-architecture-for-ai-agents-27d53bd68c31&source=post_page---top_nav_\n\n- [7 Steps to Mastering Memory in Agentic AI Systems - MachineLearningMastery.com](https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/)\n  # 7 Steps to Mastering Memory in Agentic AI Systems. In this article, you will learn how to design, implement, and evaluate memory systems that make agentic AI applications more reliable, personalized\n\n- [Best AI Agent Memory Systems in 2026: 8 Frameworks Compared](https://vectorize.io/articles/best-ai-agent-memory-systems)\n  [AI agent memory](https://vectorize.io/what-is-agent-memory) is the ability of an AI agent to store, retrieve, and reason over information across interactions, sessions, and tasks. What you need is an\n\n- [AI agent memory: types, architecture & implementation - Redis](https://redis.io/blog/ai-agent-memory-stateful-systems/)\n  AI agent memory turns stateless language models into systems that remember past interactions and build on experience. Memory systems store and retrieve information across interactions, enabling agents\n\n- [AI agent memory that doesn't suck - a practical guide - Reddit](https://www.reddit.com/r/AI_Agents/comments/1lrmx95/ai_agent_memory_that_doesnt_suck_a_practical_guide/)\n  [Skip to main content](https://www.reddit.com/r/AI_Agents/comments/1lrmx95/ai_agent_memory_that_doesnt_suck_a_practical_guide/#main-content)AI agent memory that doesn't suck - a practical guide : r/AI\n\n- [Memory Scaling for AI Agents | Databricks Blog](https://www.databricks.com/blog/memory-scaling-ai-agents)\n  # Memory Scaling for AI Agents. For many real-world agents, the bottleneck is no longer reasoning capacity, but grounding the agent in the correct information: giving the model what it needs for the t\n\n注: 如需查看详情请使用 web_fetch 工具抓取网页内容。\n[工具: web_search] 搜索结果 (query: AI Agent planning strategies reasoning LLM):\n- [Mastering AI Agent Planning: A Comprehensive Guide | by HARSH PATHAK | GoPenAI](https://blog.gopenai.com/mastering-ai-agent-planning-a-comprehensive-guide-912c96424cca)\n  In the rapidly evolving world of Artificial Intelligence, **AI agents** are emerging as powerful tools that leverage large language models (LLMs) to reason, strategize, and execute complex tasks. Thes\n\n- [Improved planning for AI Agents - Shchegrikovich LLM - Substack](https://shchegrikovich.substack.com/p/improved-planning-for-ai-agents)\n  Myopic problems can be solved with simple reasoning and memorisation without a need for a long-term strategy. We can apply this approach by\n\n- [AI Agents: Planning, Reasoning & Tool Execution (Part 2) - YouTube](https://www.youtube.com/watch?v=w2cqxNsgQgI)\n  Planning: How recursive reasoning helps AI break down complex tasks, increasing productivity by up to 40% · Reasoning: Why contextual decision-\n\n- [Think Like An AI Agent: Introduction to Planning with LLMs](https://www.llmwatch.com/p/think-like-an-ai-agent-introduction)\n  # Think Like An AI Agent: Introduction to Planning with LLMs. ### Understand how AI agents plan with the help of Generative AI. However, while much attention has been paid to LLMs' reasoning and tool-\n\n- [An Easy Introduction to LLM Reasoning, AI Agents, and Test Time ...](https://developer.nvidia.com/blog/an-easy-introduction-to-llm-reasoning-ai-agents-and-test-time-scaling/)\n  LLM agents are systems that solve a complex problem by using an LLM to reason through a problem, create a plan and use tools or APIs to complete a task.\n\n- [How LLM Plans, Thinks, and Learns: 5 Secret Strategies Explained](https://www.reddit.com/r/AgentsOfAI/comments/1o3mtef/how_llm_plans_thinks_and_learns_5_secret/)\n  For complex reasoning problems, these advanced planning mechanisms are becoming essential. Each covered framework solves specific limitations of\n\n- [[PDF] Multi-Step Planning and Reasoning Improves Acting in LLM Agents](https://arxiv.org/pdf/2505.09970)\n  The Pre-Act prompt template is designed to guide the AI agent through structured planning and ac- tion execution within a conversation. As\n\n- [AI Agents: Building strategic reasoning loops](https://medium.com/@anirudhsyal/building-strategic-reasoning-loops-11d934313026)\n  # AI Agents: Building strategic reasoning loops | by Anirudh Syal | Medium. Image 3: Strategic reasoning loops. > “The most profound question isn’t ‘How should we build this?’ but ‘What should we buil\n\n注: 如需查看详情请使用 web_fetch 工具抓取网页内容。\n\n[工具: web_fetch] [https://dev.to/matt_frank_usa/building-multi-agent-ai-systems-architecture-patterns-and-best-practices-5cf]: Building Multi-Agent AI Systems: Architecture Patterns and Best Practices - DEV Community /* ========================================================================== THE 418 CHALLENGE: THEME-AWARE RETRO EDITION ========================================================================== */ .articletag-418challenge { font-family: \"Comic Sans MS\", \"Chalkboard SE\", \"Marker Felt\", sans-serif !important; cursor: crosshair !important; } /* Destroy modern rounded corners and add brutal borders */ .articletag-418challenge .crayons-card, .articletag-418challenge .crayons-article__main, .articletag-418challenge .crayons-article__header { border-radius: 0 !important; margin-bottom: 2rem !important; } /* Typography specifics */ .articletag-418challenge h1, .articletag-418challenge h2, .articletag-418challenge h3 { text-transform: uppercase !important; } /* Fake effect for the main article title */ .articletag-418challenge h1.fs-3xl { animation: retro-slide 5s linear infinite alternate; overflow: visible; } /* Spin those avatars */ .articletag-418challenge .crayons-article__header__meta img { border-radius: 0 !important; animation: retro-spin 5s linear infinite; } /* Obnoxious tags */ .articletag-418challenge .crayons-tag { border-radius: 0 !important; font-weight: 900 !important; transform: rotate(-3deg); display: inline-block; } .articletag-418challenge .crayons-tag:nth-child(even) { transform: rotate(3deg); } /* -------------------------------------------------------------------------- 2. LIGHT THEME (Windows 95 / Office 97 Vibes) -------------------------------------------------------------------------- */ body:not(.dark-theme) .articletag-418challenge { background-color: #008080 !important; /* Win95 Teal Desktop */ } body:not(.dark-theme) .articletag-418challenge .crayons-card, body:not(.dark-theme) .articletag-418challenge .crayons-article__main, body:not(.dark-theme) .articletag-418challenge .crayons-article__header { background-color: #c0c0c0 !important; /* Classic dialog gray */ color: #000000 !important; border: 4px outset #ffffff !important; box-shadow: 8px 8px 0px #000000 !important; } body:not(.dark-theme) .articletag-418challenge h1, body:not(.dark-theme) .articletag-418challenge h2, body:not(.dark-theme) .articletag-418challenge h3 { color: #ff0000 !important; text-shadow: 2px 2px 0px #ffff00 !important; border-bottom: 3px dashed #0000ff !important; } body:not(.dark-theme) .articletag-418challenge a, body:not(.dark-theme) .articletag-418challenge .crayons-link { color: #0000ff !important; /* Standard unvisited blue */ text-decoration: underline !important; font-weight: bold !important; } body:not(.dark-theme) .articletag-418challenge a:hover, body:not(.dark-theme) .articletag-418challenge .crayons-link:hover { background-color: #ffff00 !important; color: #ff0000 !important; } body:not(.dark-theme) .articletag-418challenge .crayons-tag { background: #ffff00 !important; color: #ff0000 !important; border: 2px dotted #0000ff !important; } /* ------\n\n[https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/ai-agent-design-patterns]: AI Agent Orchestration Patterns - Azure Architecture Center | Microsoft Learn var msDocs = { \"environment\": { \"accessLevel\": \"online\", \"azurePortalHostname\": \"portal.azure.com\", \"reviewFeatures\": false, \"supportLevel\": \"production\", \"systemContent\": true, \"siteName\": \"learn\", \"legacyHosting\": false }, \"data\": { \"contentLocale\": \"en-us\", \"contentDir\": \"ltr\", \"userLocale\": \"en-us\", \"userDir\": \"ltr\", \"pageTemplate\": \"Conceptual\", \"brand\": \"azure\", \"context\": {}, \"standardFeedback\": true, \"showFeedbackReport\": false, \"feedbackHelpLinkType\": \"\", \"feedbackHelpLinkUrl\": \"\", \"feedbackSystem\": \"Standard\", \"feedbackGitHubRepo\": \"MicrosoftDocs/architecture-center\", \"feedbackProductUrl\": \"\", \"extendBreadcrumb\": false, \"isEditDisplayable\": true, \"isPrivateUnauthorized\": false, \"hideViewSource\": false, \"isPermissioned\": false, \"hasRecommendations\": true, \"contributors\": [ { \"name\": \"claytonsiemens77\", \"url\": \"https://github.com/claytonsiemens77\" }, { \"name\": \"ckittel\", \"url\": \"https://github.com/ckittel\" }, { \"name\": \"jmart1428\", \"url\": \"https://github.com/jmart1428\" }, { \"name\": \"v-stsavell\", \"url\": \"https://github.com/v-stsavell\" }, { \"name\": \"azarboon\", \"url\": \"https://github.com/azarboon\" }, { \"name\": \"v-ccolin\", \"url\": \"https://github.com/v-ccolin\" }, { \"name\": \"LizCasey1\", \"url\": \"https://github.com/LizCasey1\" }, { \"name\": \"Saisang\", \"url\": \"https://github.com/Saisang\" } ] }, \"functions\": {} };; bazadebezolkohpepadr=\"930582897\" Skip to main content Skip to Ask Learn chat experience This browser is no longer supported. Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support. Download Microsoft Edge More info about Internet Explorer and Microsoft Edge Table of contents Exit editor mode Ask Learn Ask Learn Reading mode Table of contents Read in English Add Add to plan Edit Copy Markdown Print Note Access to this page requires authorization. You can try signing in or changing directories . Access to this page requires authorization. You can try changing directories . AI agent orchestration patterns Feedback Summarize this article for me In this article As architects and developers design their workload to take full advantage of language model capabilities, AI agent systems become increasingly complex. These systems often exceed the abilities of a single agent that has access to many tools and knowledge sources. Instead, these systems use multi-agent orchestrations to handle complex, collaborative tasks reliably. This guide covers fundamental orchestration patterns for multi-agent architectures and helps you choose the approach that fits your specific requirements. Start with the right level of complexity Before you adopt a multi-agent orchestration pattern, evaluate whether your scenario requires one. Agent architectures exist on a spectrum of complexity, and each level introduces coordination overhead, latency, and cost. Use the lowest level of complexity that reliably meets your requirements. Level Descri\n\n[https://www.langchain.com/blog/choosing-the-right-multi-agent-architecture]: Choosing the Right Multi-Agent Architecture html.w-mod-js:not(.w-mod-ix3) :is([text-paragraph-animation-start], [text-paragraph-animation]) {visibility: hidden !important;} WebFont.load({ google: { families: [\"JetBrains Mono:300,400,500,600,700\"] }}); !function(o,c){var n=c.documentElement,t=\" w-mod-\";n.className+=t+\"js\",(\"ontouchstart\"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+\"touch\")}(window,document); { \"@type\": \"Article\", \"dateModified\": \"2026-04-09T10:04:10.923Z\", \"datePublished\": \"2026-01-14T18:06:14.000Z\", \"description\": \"In this post, we’ll explore when multi-agent architectures become necessary, the four main patterns we’ve observed, and how LangChain empowers you to effectively build multi-agent systems.\", \"headline\": \"Choosing the Right Multi-Agent Architecture\", \"mainEntityOfPage\": \"http://langchain.com/blog/choosing-the-right-multi-agent-architecture\", \"url\": \"http://langchain.com/blog/choosing-the-right-multi-agent-architecture\", \"author\": { \"@type\": \"Person\", \"name\": \"LangChain Accounts\" }, \"image\": { \"@type\": \"ImageObject\", \"url\": \"https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/69cbaa0eeea3104c341d0cfd_Multi-agent-architecture.png\" }, \"publisher\": { \"@type\": \"Organization\", \"logo\": { \"@type\": \"ImageObject\", \"url\": \"https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69cbbfc0ca79c1ce905c52e5_Vector-31.svg\" }, \"name\": \"LangChain Blog\", \"url\": \"http://langchain.com/blog\" } } .anti-flicker, .anti-flicker * {visibility: hidden !important; opacity: 0 !important;} [data-wf-hidden-variation], [data-wf-hidden-variation] * { display: none !important; } localStorage.removeItem('intellimize_opt_out_117666088'); if (localStorage.getItem('intellimize_data_tracking_type') !== 'always') { localStorage.setItem('intellimize_data_tracking_type', 'always'); } (function(e){var s={r:[]};e.wf={r:s.r,ready:t=>{s.r.push(t)}}})(window) (function(e,t,p){var n=document.documentElement,s={p:[],r:[]},u={p:s.p,r:s.r,push:function(e){s.p.push(e)},ready:function(e){s.r.push(e)}};e.intellimize=u,n.className+=\" \"+p,setTimeout(function(){n.className=n.className.replace(RegExp(\" ?\"+p),\"\")},t)})(window, 4000, 'anti-flicker') var wfClientScript=document.createElement(\"script\");wfClientScript.src=\"https://cdn.intellimize.co/snippet/117666088.js\",wfClientScript.async=!0,wfClientScript.onerror=function(){document.documentElement.className=document.documentElement.className.replace(RegExp(\" ?anti-flicker\"),\"\")},document.head.appendChild(wfClientScript); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-T675KH33'); * { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; -o-font-smoothing: antialiased; } /* Make Flowbase / Tippy too\n\n[工具: web_fetch] [https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/]: Just a moment... *{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width Enable JavaScript and cookies to continue (function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'aJWGVUbuPouk0_6iW7MkF1_kucw0lKHR8C2sUqpIoS8-1778057218-1.2.1.1-D7uRPOA3B1DWGqXPdDB8doxOM_bZBeAXgeiAes52yg0mlpqt7MXZyHwG.jaBs4oJ',cITimeS: '1778057218',cN: 'X3WJ8fENrQ4QisqD5M45t4',cRay: '9f76b7aface87681',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/the-roadmap-to-mastering-agentic-ai-design-patterns/?__cf_chl_tk=70RI7dnEarwRD709GMeJUQrk2KzS0HVMksdYFw5RJqM-1778057218-1.0.1.1-mGH2pN48D3jf5ym7jYIVUyqiaGY3_c0dH8iX_CxN8BE\",cvId: '3',cZone: 'machinelearningmastery.com',fa:\"/the-roadmap-to-mastering-agentic-ai-design-patterns/?__cf_chl_f_tk=70RI7dnEarwRD709GMeJUQrk2KzS0HVMksdYFw5RJqM-1778057218-1.0.1.1-mGH2pN48D3jf5ym7jYIVUyqiaGY3_c0dH8iX_CxN8BE\",md: 'qyyKCMA6U.LKnzyHt4Xa6Fnv.FfnbNCA_S05T.AQd74-1778057218-1.2.1.1-s_dbH.Hap.XCRfmKinB_FgwVKn7O90MqvtjkTgE5uM.6SDdGuvDTjcU1drl9pi9PszuX5uZtVQMw02jm8P.hOc4P52QoQ1D4wSh0hL2y3mSQH2QMlL7yj5LT4ahQSS1ikbAnVHCiJc4ZrkSYgoUcgvh8PpFS8fpFip0nUrFBr0sXWkdyLrj_Ol2myaStxmyeOfl1DVTN0hkkEG.EQr.uc9N_py7OA8tPolUbyJmEhMyxxe__OyjNu3orxwRDb3hSsx9d_FdO1MRsqoRSkxvrLfI_wf0.YiquDI1njqzQLuXPyehJ1gSOeqxgLSje4btPaLuV1_4lYUnPNfKdokzCEIW8_oB..jRbgfI7yxMNOzdz2hLnL4dOJUdKmFUWPobPCrV90wLaCfLjt3ITuuoYRbNPIEwwdfNmAPRO3lShqWK72WO2OYDVlhHXb423r2fCr0Mer5l2NEW3gQX9PNYE98b3.yxGUC0KLxo7F7.aqh3IxtUfTV71qa3xCYAx9.8dQxA_wgIzM7WczoBvBfdzeHRWFEg3vkAtm8Actx5v2KqKS5aJdTaw1xRvjXAdKzUrLP0.B4eA9y16IiPHhDQDZxoI1ESmb6rqf3B4ORqihQVJnS22LxwN.Vrp6e0YOO8Y0p7E6.qUivZT3iVtKTeV2RKHsya.tpR81lUeAtfx9rbWDTa9o7b6mahvokEiuv0e2xKlrdr77QHJAttXzqdEHOp4YgaYCYwH2wesTpjnFPOQEXYCb04QxwBJJav8xtGMZYT4Zl246pDunof3u9OsiN2DOadyeQWCFvpqFfIvNd6vwtV4.GXW9EERw4eTSTmFXjLbSkb.q5YCWj.Qou3qZce6beswdwhZwIFY0hTyd_eUYM_b7Xp6qmslzFYSX8YDYz5M74z9NHrFIU.3BySRkcbxwuplFpeX_2Mkd_rsfqTcW.bj80dCf.22rK11ORzYAdxTIaJe6lUqMPx1CTKYpUTgn6aTH5niU3wf849GMxnDlRWo.rfyFfQ3kQbVXtAX',mdrd: 'i0cSs9_JOHZkTroNX9.AVfiNskWm1BDGIRq.B8RIhyw-1778057218-1.2.1.1-6VjiDfhzUtpuBTwXK1t3L0xpN_pPe1KGLj5KmpE3oBoZp6WPjXa1d5tnbphnfiwE6l6kz3PGnxJniqPsI8DzStw0r4cVuXrvuVvj0lHD_n_ITEaJDzGmeqVDR53DoUVQDc9EoyjZc9rJvQfU.ajhX9WQCWgmgeocztfns38OEGP3pU.KMlQX5sTGia5R5L37.zyjDvjsNQKbg5f6GaZnv5MxHxwMjUcDi6xeoEH27U.SevCz5_.kHgk84H3M0vsed8I4Tw4GUL0BA2VNUMrXhox39Nslok.ocyOaTqJc3tbjdvlp8HCvxV08yCn7eC93',};var a = document.createElement('script');a.nonce = 'X3WJ8fENrQ4QisqD5M45t4';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9f76b7aface87681';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_\n\n[https://redis.io/blog/ai-agent-memory-stateful-systems/]: AI agent memory: types, architecture &amp; implementation Skip to: Home Content Footer navigation Get your features to production faster. Try Redis Feature Form Redis for AI Products Products Redis Cloud Fully managed and integrated with Google Cloud, Azure, and AWS Redis Software Self-managed software with enterprise-grade compliance and reliability Redis Open Source In-memory database for caching &amp; streaming Redis for AI Faster GenAI apps start here Tools Redis LangCache Redis Insight Redis Data Integration Clients &amp; Connectors Get Redis Downloads Resources Learn Tutorials Quick starts Commands University Knowledge Base Resource Center Blog Demo Center Developer Hub Connect Customer Stories Partners Support Community Events &amp; Webinars Professional Services Latest Releases News &amp; updates Learn how to Build Visit our Developer Hub Docs Pricing Search Login Book a meeting Try Redis Redis for AI Products Products Redis Cloud Fully managed and integrated with Google Cloud, Azure, and AWS Redis Software Self-managed software with enterprise-grade compliance and reliability Redis Open Source In-memory database for caching &amp; streaming Redis for AI Faster GenAI apps start here Tools Redis LangCache Redis Insight Redis Data Integration Clients &amp; Connectors Get Redis Downloads Resources Learn Tutorials Quick starts Commands University Knowledge Base Resource Center Blog Demo Center Developer Hub Connect Customer Stories Partners Support Community Events &amp; Webinars Professional Services Latest Releases News &amp; updates Learn how to Build Visit our Developer Hub Docs Pricing Try Redis Book a meeting Login Resource Center Events &amp; webinars Blog Videos Glossary Resources Architecture Diagrams Demo Center Resource Center Events &amp; webinars Blog Videos Glossary Resources Architecture Diagrams Demo Center Back to blog Blog AI agent memory: Building stateful AI systems February 03, 2026 8 minute read Jim Allen Wallace AI agent memory turns stateless language models into systems that remember past interactions and build on experience. Without memory infrastructure, LLMs treat each request independently—your agent won&#x27;t remember what happened five minutes ago. Memory systems store and retrieve information across interactions, enabling agents that maintain context, learn from experience, and execute multi-step tasks. If you&#x27;re building anything more complex than a basic chatbot, you need to understand how memory architectures work. This article covers what agent memory is, the different memory types and how to build production-ready systems. What is AI agent memory? By default, LLMs are stateless. When you ask an LLM a question, it processes that query independently without remembering your last conversation. Each request starts from scratch unless you build infrastructure to maintain context between interactions. Agent memory systems persist information between interactions, compile relevant history at each step, and c\n\n[https://www.tungstenautomation.com/learn/blog/build-enterprise-grade-ai-agents-agentic-design-patterns]: Enterprise AI Agents: Agentic Design Patterns Explained window.dataLayer = window.dataLayer || []; window.dataLayer.push({ 'event' : 'page metadata', 'page id' : '{A8205183-6D37-4832-9A96-68EEE8337357}', 'page type' : 'Learn', 'content type': 'Blog', 'category': 'Document and Workflow Automation', 'product': '' }); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window, document, 'script', 'dataLayer', 'GTM-PGDXP2'); window._vwo_code || (function() { var account_id=884479, version=2.1, settings_tolerance=2000, hide_element='body', hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important', /* DO NOT EDIT BELOW THIS LINE */ f=false,w=window,d=document,v=d.querySelector('#vwoCode'),cK='_vwo_'+account_id+'_settings',cc={};try{var c=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=c&&typeof c==='object'?c:{}}catch(e){}var stT=cc.stT==='session'?w.sessionStorage:w.localStorage;code={use_existing_jquery:function(){return typeof use_existing_jquery!=='undefined'?use_existing_jquery:undefined},library_tolerance:function(){return typeof library_tolerance!=='undefined'?library_tolerance:undefined},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){if(performance.getEntriesByName('first-contentful-paint')[0]){return''}return typeof cc.hE==='string'?cc.hE:hide_element},getVersion:function(){return version},finish:function(e){if(!f){f=true;var t=d.getElementById('_vis_opt_path_hides');if(t)t.parentNode.removeChild(t);if(e)(new Image).src='https://dev.visualwebsiteoptimizer.com/ee.gif?a='+account_id+e}},finished:function(){return f},addScript:function(e){var t=d.createElement('script');t.type='text/javascript';if(e.src){t.src=e.src}else{t.text=e.text}d.getElementsByTagName('head')[0].appendChild(t)},load:function(e,t){var i=this.getSettings(),n=d.createElement('script'),r=this;t=t||{};if(i){n.textContent=i;d.getElementsByTagName('head')[0].appendChild(n);if(!w.VWO||VWO.caE){stT.removeItem(cK);r.load(e)}}else{var o=new XMLHttpRequest;o.open('GET',e,true);o.withCredentials=!t.dSC;o.responseType=t.responseType||'text';o.onload=function(){if(t.onloadCb){return t.onloadCb(o,e)}if(o.status===200){_vwo_code.addScript({text:o.responseText})}else{_vwo_code.finish('&e=loading_failure:'+e)}};o.onerror=function(){if(t.onerrorCb){return t.onerrorCb(e)}_vwo_code.finish('&e=loading_failure:'+e)};o.send()}},getSettings:function(){try{var e=stT.getItem(cK);if(!e){return}e=JSON.parse(e);if(Date.now()>e.e){stT.removeItem(cK);return}return e.s}catch(e){return}},init:function(){if(d.URL.indexOf('__vwo_disable__')>-1)return;var e=this.settings_tolerance();w._vwo_settings_ti",
+    "error": "Unterminated string starting at: line 1 column 48 (char 47)",
+    "time": "2026-05-06T16:53:03.126770",
+    "processed": true
+  },
+  {
+    "agent": "ai_news",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T17:13:15.348950",
+    "processed": true
+  },
+  {
+    "agent": "agent_architecture",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T17:13:50.664088",
+    "processed": true
+  },
+  {
+    "agent": "agent_interaction",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T17:14:00.864273",
+    "processed": true
+  },
+  {
+    "agent": "ai-news-agent",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T18:21:47.455646",
+    "processed": true
+  },
+  {
+    "agent": "agent-interaction-agent",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T18:23:46.185089",
+    "processed": true
+  },
+  {
+    "agent": "agent-design-agent",
+    "status": "idle",
+    "result": "",
+    "error": "",
+    "time": "2026-05-06T18:24:27.155307",
+    "processed": true
+  }
+]

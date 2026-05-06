@@ -1,0 +1,61 @@
+家庭：3GJWK-VNYR2-8KQFK-QFXG6-J2QPK
+专业：密匙：J8WVF-9X3GM-4WVYC-VDHQG-42CXT
+（1）到系统输入密匙
+
+（2）win+R, 输入powershell， 回车, 再在弹出的窗口内输：
+irm massgrave.dev/get.ps1 | iex
+（3）弹出窗口选[1]
+
+网易邮箱授权密码I/S：MVy3yBMdMQyAG7Cn
+google应用专用密码：amvh vasl matf rtup
+
+baidu API key:bce-v3/ALTAK-nnQ4XtfE3PWS5duDEnuf6/0c4e495bb0cc6403bd963d11f0ead327dc8ea14c
+
+CloudflareAPI:
+jzdPSQ1aNxw86XHkajQJub8wt1GzhJVBpOTGHyaJ
+xz0X2gJyVo-rfu04aSqPzoC1u4BTucvRBt9E3Kcu
+A_VaIPkXs7_GjUclHbmJbDA5O0VMw16-X1mT_zeb
+
+DeepseekAPI:sk-bddc30b547a14efdbcaa327ffff3de15
+		      gcp:sk-20f672fd764a4cd18ee2d897c96ded0e
+
+OllamaAPI:ac43c7bfa629441488391fde64840e65.uUZGxXZlu9RYh836PykJXeSW
+
+QQ_bot:phyliaopenclaw channels add --channel qqbot --token "102857760:5c9gEmKsQyW5eDmLuT3dDnNxX7iJuV6h"
+	openclaw channels add --channel qqbot --token "1903771303:mV2MSN4XmncEcmhP"
+
+baiduAPI:bce-v3/ALTAK-nnQ4XtfE3PWS5duDEnuf6/0c4e495bb0cc6403bd963d11f0ead327dc8ea14c
+
+Gemini API Key:AIzaSyBi6JhRxowsxKjNtKNfB6xTbkGv9G9ZISM
+
+xAI API:xai-3kpEeTJlRCI0ZmdqXIYpVSy1yxkls8Tvdjx9HjKlu55q7kD93oGurJxUt5Z92oVISIs55nEVEhUm1Wx8
+	gcp:xai-kDBlqh0T6nmzmAk8wZ1njF8rpwL8WHmjmXsEXrooLo2jJdqjgozhPtuErt0dMfqgCUIrzDKHgTvLe7Ol
+
+oneapi:sk-PCc7l4rtTajb1jER1078AbC9676c46E6976b1fE38a7c914d base url:https://oneapi.naujtrats.xyz/v1
+
+brave search API:BSArle6NPVtf4b3ufTWDQtumcUmM-LH base url:https://search.naujtrats.xyz
+
+U卡visa虚拟卡:(卡号)4549 2418 7653 3795
+			vcc:599
+			持卡人:Yiqiao Xiang
+			有效期:02/2029
+
+ZeroTier network ID:83048a063298eaac https://my.zerotier.com/network/83048a063298eaac
+
+Telegram bot api:8229076649:AAFnUINlAhgOcZYSgYiuXWowizWeEHXy2Nk
+
+openclaw: http://127.0.0.1:18789/#token=rajfapyi34cbrkpyjfbx25a8bfbzx3hn
+		https://openclaw.naujtrats.xyz/#token=dd388f7fe0e11d302e1f4c0bf33b786d32c7aab3cc61981f
+clawhub:clh_7gkr9Qrc-cgKiemdcABm1b0U3zsv791pDJcLlmf65_E
+
+kimi api:sk-eZFAg3Mv4oAGdjfnQNeNxRX7lNJnV6Mis1KxylWFPXIQgPoe
+             pad:sk-PCRFJlAQpZg8M7sfo6NvUTwSNSmhxZoaB7FxA3VQuyoj2rQg
+
+MiniMax Token plan Plus api:sk-cp-o_QQT2zmTXUq_t6LOeCI2frm_I_NzRjo4ZGQNRM-0OzbrWTfilpPiVOlBQnXDWYftL7DKtXoeZk83UZ99gdtEbQ0XWkyN_8SsanVdnowO_bSK6mT1ggW7Is
+	sk-api-ur8XT0A2E7l5H9kuCvM1m1q-gKAt_MSXNBfU5WS3zhHCAa9jaIM-Eu4S-a-P4s0olZrh3yAaxRjLjmgOqnu3kL9xsbSHgjCcBG-L9GPJ1Tz3dfbMt04VA8U
+
+youtube date api:AIzaSyAaR8OucCVR4YETzV-sDx4j2mypGUmw9zI
+
+tavily api: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
+
+v2rayNmysub:http://gcp.naujtrats.xyz:2096/subme/ts4z3mdoqtomrnsm

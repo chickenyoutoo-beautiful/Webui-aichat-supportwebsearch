@@ -1,0 +1,1524 @@
+{
+  "web": {
+    "last_seen": 1778059968.936016,
+    "time": "2026-05-06T17:32:48.936017"
+  },
+  "pending_messages": [
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:33:43.628521"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:34:46.642881"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:35:52.586511"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:36:58.534014"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:38:04.476766"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:39:10.434481"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:40:16.378892"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:41:22.318900"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:42:25.337937"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:43:31.272897"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:44:37.216892"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:45:43.168841"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:46:49.108013"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:47:55.054630"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:49:01.333134"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:50:07.286521"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:51:10.294430"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:52:16.234926"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:53:22.184032"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:54:28.127791"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:55:34.074119"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:56:40.023799"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:57:45.957274"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:58:48.971680"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T17:59:54.912980"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:01:00.858696"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:02:06.797023"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:03:12.745248"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:04:18.687782"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:05:24.637279"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:06:27.640295"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:07:33.599780"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:08:39.548255"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:09:45.484417"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:10:51.436723"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:11:57.367780"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:13:03.314603"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:14:09.258574"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:15:12.271180"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:16:18.218414"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:17:24.158270"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:18:30.112686"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:19:36.052751"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:20:41.991194"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:21:47.934802"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:22:50.947294"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:23:56.891404"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:25:02.830327"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:26:08.775364"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:27:14.725071"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:28:20.669838"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:29:26.616807"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:30:29.622191"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:31:35.576787"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:32:41.512254"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:33:47.459534"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:34:53.390726"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:35:59.341645"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:37:05.289817"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:38:11.229061"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:39:14.239220"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:40:20.191311"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:41:26.124830"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:42:32.076697"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:43:38.021702"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:44:43.969132"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:45:49.907696"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:46:52.928125"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:47:58.874057"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:49:04.819468"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:50:10.782373"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:51:16.711026"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:52:22.655301"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:53:28.604748"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:54:31.623223"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:55:37.567894"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:56:43.511750"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:57:49.462427"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T18:58:55.408578"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:00:01.358604"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:01:07.308884"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:02:13.255020"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:03:16.258252"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:04:22.345221"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:05:28.280496"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:06:34.240252"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:07:40.180891"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:08:46.124440"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:09:52.064493"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:10:55.075692"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:12:01.026754"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:13:06.967299"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:14:12.912508"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:15:18.855705"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:16:24.801880"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:17:30.745243"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:18:33.760509"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:19:41.095073"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:20:47.029596"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:21:52.989966"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:22:56.003412"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:24:01.940083"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:25:07.890831"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:26:13.837691"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:27:19.779608"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:28:25.721676"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:29:31.669008"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:30:34.685719"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:31:40.621938"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:32:46.571018"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:33:52.519299"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:34:58.474289"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:36:02.889046"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:37:09.089781"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:38:13.948579"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:39:16.969484"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:40:22.915305"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:41:28.851615"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:42:34.801955"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:43:40.746487"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:44:46.693589"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:45:52.646765"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:46:55.653498"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:48:01.597939"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:49:07.544446"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:50:13.490849"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:51:19.433403"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:52:25.401044"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:53:31.353009"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:54:37.291791"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:55:40.308599"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:56:47.637998"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:57:53.587245"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T19:58:56.594116"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:00:02.559973"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:01:08.500751"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:02:14.444306"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:03:20.399707"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:04:26.340273"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:05:32.282742"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:06:38.228965"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:07:41.248520"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:08:47.183394"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:09:53.138222"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:11:00.824019"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:12:01.624041"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:13:06.845914"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:14:12.788671"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:15:18.723646"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:16:24.675413"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:17:30.619726"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:18:36.563900"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:19:39.574319"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:20:45.511202"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:21:51.453186"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:22:57.405937"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:24:03.346865"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:25:09.292982"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:26:15.245661"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:27:18.255325"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:28:24.197738"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:29:30.146176"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:30:36.087989"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:31:39.103711"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:32:46.435332"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:33:52.391157"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:34:59.714930"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:36:02.735635"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:37:10.068808"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:38:16.016313"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:39:21.955239"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:40:24.965257"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:41:30.911691"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:42:36.856749"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:43:42.802904"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:44:48.748368"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:45:51.763602"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:46:56.884685"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:48:02.102237"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:49:08.057050"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:50:14.047647"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:51:19.986770"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:52:22.996038"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:53:28.956004"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:54:36.294242"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:55:42.232944"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:56:45.253195"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:57:51.200487"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T20:58:57.145856"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:00:03.102453"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:01:09.037277"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:02:12.054921"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:03:19.391252"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:04:22.588272"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:05:29.924046"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:06:35.860250"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:07:43.195932"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:08:46.212099"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:09:52.162042"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:10:59.497936"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:12:03.720086"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:13:06.728001"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:14:12.669958"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:15:18.613755"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:16:24.554159"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:17:30.560993"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:18:36.512161"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:19:42.457506"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:20:45.462980"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:21:51.409889"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:22:57.127428"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:24:03.071340"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:25:06.079935"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:26:12.028701"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:27:17.967621"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:28:23.918911"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:29:28.321830"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:30:31.316926"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:31:37.262665"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:32:43.199133"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:33:46.213350"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:34:53.549658"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:35:59.491818"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:37:06.824735"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:38:11.221484"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:39:17.112459"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:40:21.515176"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:41:26.700424"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:42:32.645657"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:43:37.052725"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:44:42.995669"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:45:48.934801"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:46:54.881689"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:48:00.822816"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:49:06.773631"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:50:09.789275"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:51:15.736071"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:52:21.674929"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:53:29.009418"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:54:32.019665"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:55:39.348973"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:56:45.298183"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:57:51.251314"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:58:55.659168"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T21:59:58.671907"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:01:05.055905"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:02:11.006792"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:03:14.016947"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:04:21.370297"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:05:27.130590"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:06:33.075772"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:07:39.007719"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:08:44.962011"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:09:49.360139"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:10:55.304129"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:12:01.541512"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:13:07.488267"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:14:13.431890"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:15:17.858047"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:16:23.802130"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:17:29.741186"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:18:35.688855"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:19:38.703357"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:20:44.634577"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:21:50.583760"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:22:56.524358"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:24:00.931364"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:25:05.253894"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:26:10.759460"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:27:10.846406"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:28:16.346139"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:29:19.976518"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:30:27.314935"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:31:33.093802"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:32:36.104515"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:33:42.047857"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:34:48.002302"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:35:55.324978"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:36:56.879523"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:38:02.836637"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:39:08.776144"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:40:14.717408"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:41:20.662555"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:42:26.609001"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:43:32.553239"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:44:36.947927"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:45:40.618283"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:46:46.558128"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:47:52.508857"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:48:58.458193"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:50:04.410543"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:51:10.355591"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:52:13.375154"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:53:20.706265"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:54:23.718659"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:55:31.054075"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:56:36.998773"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:57:40.017638"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:58:47.352794"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T22:59:54.707000"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:00:57.804462"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:02:00.829005"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:03:05.723248"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:04:11.668430"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:05:17.623714"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:06:23.562481"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:07:29.512864"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:08:35.456614"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:09:38.468259"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:10:44.411402"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:11:50.364442"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:12:56.305670"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:13:59.321596"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:15:06.651751"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:16:13.981536"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:17:16.999182"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:18:22.502789"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:19:22.592639"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:20:30.286583"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:21:33.306394"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:22:39.248553"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:23:45.192803"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:24:51.146405"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:25:57.082687"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:27:03.029315"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:28:08.987319"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:29:13.377043"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:30:19.325680"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:31:25.332109"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:32:31.282139"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:33:34.296006"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:34:41.624058"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:35:47.583615"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:36:53.528945"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:37:56.540452"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:39:03.876570"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:40:09.828586"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:41:14.218904"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:42:20.172691"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:43:24.569486"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:44:30.516673"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:45:36.473817"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:46:42.412399"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:47:48.362902"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:48:54.309828"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:49:57.327111"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:51:04.656301"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:52:10.605908"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:53:16.545218"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:54:22.485755"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:55:25.510393"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:56:32.841541"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:57:38.780508"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:58:41.798894"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-06T23:59:47.739766"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:00:53.685408"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:01:59.640544"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:03:05.582420"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:04:11.525304"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:05:15.967209"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:06:18.986305"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:07:24.931688"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:08:30.882345"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:09:36.816759"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:10:42.763982"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:11:45.852917"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:12:51.809159"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:13:59.139564"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:15:02.147508"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:16:08.096329"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:17:14.035757"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:18:19.985789"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:19:25.926445"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:20:30.519779"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:21:36.472093"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:22:42.426164"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:23:48.375012"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:24:54.315089"
+    },
+    {
+      "msg": "{\"total_courses\": 30, \"completed\": 0, \"videos_done\": 0, \"works_done\": 0}\n",
+      "time": "2026-05-07T00:26:00.266204"
+    }
+  ]
+}

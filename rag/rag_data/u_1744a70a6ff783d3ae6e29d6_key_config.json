@@ -1,0 +1,5 @@
+{
+  "embed_model": "jinaai/jina-embeddings-v3",
+  "embed_base_url": "",
+  "mode": "hybrid"
+}

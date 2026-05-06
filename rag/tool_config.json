@@ -1,0 +1,17 @@
+{
+    "type": "function",
+    "function": {
+        "name": "rag_search",
+        "description": "从个人RAG知识库中检索信息。知识库包含你上传的文档、笔记和技术资料。当你需要用户私有知识、内部文档或个人笔记时使用此工具。",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "question": {
+                    "type": "string",
+                    "description": "要检索的问题，如'Python装饰器是什么'"
+                }
+            },
+            "required": ["question"]
+        }
+    }
+}
