@@ -1,9 +1,0 @@
-{
-    "searchApiKey": "sk-test-search-key-abc123",
-    "searchApiKeyBrave": "brave-key-xyz",
-    "searchProvider": "brave",
-    "enableSearch": "true",
-    "searchToolCall": "true",
-    "dark": "false",
-    "updated_at": "2026-04-26T08:20:24+00:00"
-}

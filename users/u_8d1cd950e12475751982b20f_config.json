@@ -1,8 +1,0 @@
-{
-    "apiKey": "sk-newkey",
-    "baseUrl": "https:\/\/api.test.com",
-    "model": "gpt-4",
-    "dark": "true",
-    "updated_at": "2026-04-26T07:24:07+00:00",
-    "searchProvider": "duckduckgo"
-}
